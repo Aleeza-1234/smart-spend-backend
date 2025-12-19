@@ -66,3 +66,31 @@ class NecessityResponse(NecessityBase):
     
     class Config:
         from_attributes = True
+
+class SavingsGoalBase(BaseModel):
+    name: str
+    target_amount: float = Field(..., gt=0)
+    target_date: Optional[datetime] = None
+    priority: int = Field(1, ge=1, le=5)
+
+class SavingsGoalCreate(SavingsGoalBase):
+    pass
+
+class SavingsGoalUpdate(BaseModel):
+    name: Optional[str] = None
+    target_amount: Optional[float] = Field(None, gt=0)
+    target_date: Optional[datetime] = None
+    priority: Optional[int] = Field(None, ge=1, le=5)
+    is_active: Optional[bool] = None
+
+class SavingsGoalResponse(SavingsGoalBase):
+    id: int
+    user_id: int
+    current_amount: float
+    progress_percentage: Optional[float] = None
+    monthly_required: Optional[float] = None
+    is_active: bool
+    created_at: datetime
+    
+    class Config:
+        from_attributes = True

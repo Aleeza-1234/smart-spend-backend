@@ -15,10 +15,14 @@ from app.schemas.budget import (
     IncomeCreate,
     IncomeResponse,
     NecessityCreate,
-    NecessityResponse
+    NecessityResponse,
+    SavingsGoalCreate,
+    SavingsGoalResponse,
+    SavingsGoalUpdate
 )
-from app.models.budget import Budget, Income, Necessity
+from app.models.budget import Budget, Income, Necessity, SavingsGoal
 from app.services.budget_calculator import BudgetCalculator
+from app.core.datetime_utils import convert_timezone_aware_datetimes
 from sqlalchemy import select, and_
 
 router = APIRouter()
@@ -109,7 +113,10 @@ async def add_income(
     db: AsyncSession = Depends(get_db)
 ):
     """Add income source"""
-    db_income = Income(user_id=user_id, **income.dict())
+    income_data = income.dict()
+    income_data = convert_timezone_aware_datetimes(income_data)
+    
+    db_income = Income(user_id=user_id, **income_data)
     db.add(db_income)
     await db.commit()
     await db.refresh(db_income)
@@ -148,3 +155,98 @@ async def get_necessities(
     stmt = select(Necessity).where(Necessity.user_id == user_id)
     result = await db.execute(stmt)
     return result.scalars().all()
+
+# Savings Goals CRUD
+@router.post("/savings-goals", response_model=SavingsGoalResponse)
+async def create_savings_goal(
+    goal: SavingsGoalCreate,
+    user_id: int = Query(..., description="User ID"),
+    db: AsyncSession = Depends(get_db)
+):
+    """Create a savings goal"""
+    goal_data = goal.dict()
+    goal_data = convert_timezone_aware_datetimes(goal_data)
+    
+    db_goal = SavingsGoal(user_id=user_id, **goal_data)
+    db.add(db_goal)
+    await db.commit()
+    await db.refresh(db_goal)
+    
+    # Calculate progress percentage and monthly required
+    progress_percentage = (db_goal.current_amount / db_goal.target_amount) * 100 if db_goal.target_amount > 0 else 0
+    monthly_required = 0
+    if db_goal.target_date:
+        from datetime import datetime
+        months_left = max(1, (db_goal.target_date.year - datetime.now().year) * 12 + 
+                         (db_goal.target_date.month - datetime.now().month))
+        remaining = max(0, db_goal.target_amount - db_goal.current_amount)
+        monthly_required = remaining / months_left
+    
+    # Add calculated fields to response
+    response_data = db_goal.__dict__.copy()
+    response_data['progress_percentage'] = round(progress_percentage, 1)
+    response_data['monthly_required'] = round(monthly_required, 2) if monthly_required > 0 else None
+    
+    return SavingsGoalResponse(**response_data)
+
+@router.get("/savings-goals", response_model=List[SavingsGoalResponse])
+async def get_savings_goals(
+    user_id: int = Query(..., description="User ID"),
+    active_only: bool = Query(True, description="Show only active goals"),
+    db: AsyncSession = Depends(get_db)
+):
+    """Get all savings goals"""
+    query = select(SavingsGoal).where(SavingsGoal.user_id == user_id)
+    if active_only:
+        query = query.where(SavingsGoal.is_active == True)
+    query = query.order_by(SavingsGoal.priority.asc(), SavingsGoal.created_at.desc())
+    
+    result = await db.execute(query)
+    goals = result.scalars().all()
+    
+    # Calculate progress and monthly required for each goal
+    response_goals = []
+    for goal in goals:
+        progress_percentage = (goal.current_amount / goal.target_amount) * 100 if goal.target_amount > 0 else 0
+        monthly_required = 0
+        if goal.target_date:
+            from datetime import datetime
+            months_left = max(1, (goal.target_date.year - datetime.now().year) * 12 + 
+                             (goal.target_date.month - datetime.now().month))
+            remaining = max(0, goal.target_amount - goal.current_amount)
+            monthly_required = remaining / months_left
+        
+        response_data = goal.__dict__.copy()
+        response_data['progress_percentage'] = round(progress_percentage, 1)
+        response_data['monthly_required'] = round(monthly_required, 2) if monthly_required > 0 else None
+        response_goals.append(SavingsGoalResponse(**response_data))
+    
+    return response_goals
+
+@router.put("/savings-goals/{goal_id}/add-money")
+async def add_money_to_goal(
+    goal_id: int,
+    amount: float = Query(..., gt=0, description="Amount to add"),
+    user_id: int = Query(..., description="User ID"),
+    db: AsyncSession = Depends(get_db)
+):
+    """Add money to a savings goal"""
+    stmt = select(SavingsGoal).where(
+        and_(
+            SavingsGoal.id == goal_id,
+            SavingsGoal.user_id == user_id
+        )
+    )
+    result = await db.execute(stmt)
+    goal = result.scalar_one_or_none()
+    
+    if not goal:
+        raise HTTPException(status_code=404, detail="Savings goal not found")
+    
+    goal.current_amount += amount
+    goal.updated_at = datetime.utcnow()
+    
+    await db.commit()
+    await db.refresh(goal)
+    
+    return {"message": f"Added ₹{amount:.2f} to {goal.name}", "new_balance": goal.current_amount}

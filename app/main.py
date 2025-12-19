@@ -8,6 +8,7 @@ from app.config import settings
 from app.api.v1.router import api_router
 from app.core.database import engine, Base
 from app.ml.inference.model_loader import model_loader
+import app.models
 
 # Create FastAPI app
 app = FastAPI(

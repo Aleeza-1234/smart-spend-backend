@@ -3,9 +3,15 @@ API v1 Router
 """
 
 from fastapi import APIRouter
-from app.api.v1.endpoints import transactions, budget, travel, ml
+from app.api.v1.endpoints import transactions, budget, travel, ml, users
 
 api_router = APIRouter()
+
+api_router.include_router(
+    users.router,
+    prefix="/users",
+    tags=["users"]
+)
 
 api_router.include_router(
     transactions.router,

@@ -16,6 +16,7 @@ from app.schemas.travel import (
 )
 from app.models.travel import TravelPlan
 from app.services.travel_predictor import TravelPredictor
+from app.core.datetime_utils import convert_timezone_aware_datetimes
 
 router = APIRouter()
 
@@ -41,13 +42,18 @@ async def create_travel_plan(
     else:
         estimated_cost = plan.estimated_cost
     
+    # Convert timezone-aware datetime if needed
+    target_date = plan.target_date
+    if target_date and hasattr(target_date, 'tzinfo') and target_date.tzinfo:
+        target_date = target_date.replace(tzinfo=None)
+    
     db_plan = TravelPlan(
         user_id=user_id,
         destination=plan.destination,
         duration_days=plan.duration_days,
         estimated_cost=estimated_cost,
         travel_style=plan.travel_style,
-        target_date=plan.target_date
+        target_date=target_date
     )
     
     db.add(db_plan)

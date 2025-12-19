@@ -31,8 +31,21 @@ class TravelPlanResponse(TravelPlanBase):
 
 class TravelTimelinePrediction(BaseModel):
     travel_plan_id: int
+    destination: str
+    duration_days: int
+    travel_style: str
+    total_cost: float
+    current_savings: float
+    remaining_needed: float
     months_needed: float
-    target_date: date
-    confidence_range: tuple[float, float]
+    target_date: str  # ISO format date string
+    best_case_months: float
+    worst_case_months: float
+    best_case_date: str
+    worst_case_date: str
     monthly_savings_needed: float
-    current_monthly_savings_rate: float
+    weekly_savings_needed: float
+    daily_savings_needed: float
+    milestones: list[dict]
+    savings_rate_info: dict
+    confidence: float

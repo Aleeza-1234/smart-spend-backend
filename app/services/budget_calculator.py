@@ -22,14 +22,24 @@ class BudgetCalculator:
     
     async def get_monthly_income(self, user_id: int, month: int = None, year: int = None) -> float:
         """
-        Calculate total monthly income from all sources
+        Calculate total monthly income from all sources including user profile data
         """
         if month is None:
             month = datetime.now().month
         if year is None:
             year = datetime.now().year
         
-        # Get recurring income (salary, pocket money)
+        # Get user profile income (salary + pocket money)
+        from app.models.user import User
+        user_stmt = select(User).where(User.id == user_id)
+        user_result = await self.db.execute(user_stmt)
+        user = user_result.scalar_one_or_none()
+        
+        profile_income = 0.0
+        if user:
+            profile_income = (user.monthly_salary or 0.0) + (user.pocket_money or 0.0)
+        
+        # Get recurring income from Income table
         stmt = select(func.sum(Income.amount)).where(
             and_(
                 Income.user_id == user_id,
@@ -54,7 +64,8 @@ class BudgetCalculator:
         result = await self.db.execute(stmt)
         one_time_income = result.scalar() or 0.0
         
-        return recurring_income + one_time_income
+        total_income = profile_income + recurring_income + one_time_income
+        return total_income
     
     async def get_fixed_expenses(self, user_id: int) -> float:
         """
@@ -158,9 +169,10 @@ class BudgetCalculator:
         # Get fixed expenses
         fixed_expenses = await self.get_fixed_expenses(user_id)
         
-        # Get savings goal
-        savings_goal = await self.get_active_savings_goal(user_id)
-        monthly_savings = savings_goal['monthly_savings_needed'] if savings_goal else 0.0
+        # Get savings goal from both travel plans and regular savings goals
+        travel_savings = await self.get_active_savings_goal(user_id)
+        regular_savings = await self.get_monthly_savings_target(user_id)
+        monthly_savings = (travel_savings['monthly_savings_needed'] if travel_savings else 0.0) + regular_savings
         
         # Calculate disposable income
         disposable = monthly_income - fixed_expenses - monthly_savings
@@ -185,10 +197,10 @@ class BudgetCalculator:
             'spent_this_month': round(spent_this_month, 2),
             'remaining_for_month': round(adjusted_disposable, 2),
             'days_remaining': days_remaining,
-            'daily_total': round(daily_total, 2),
+            'total_daily': round(daily_total, 2),  # Changed from daily_total to total_daily
             'food_budget': round(food_budget, 2),
             'discretionary_budget': round(discretionary_budget, 2),
-            'savings_goal_details': savings_goal
+            'savings_goal_details': travel_savings
         }
     
     async def get_category_spending(self, user_id: int, days: int = 30) -> Dict[str, float]:
@@ -257,7 +269,7 @@ class BudgetCalculator:
         
         # Check daily budget
         daily_budget_info = await self.calculate_daily_budget(user_id)
-        if daily_budget_info['daily_total'] < 0:
+        if daily_budget_info['total_daily'] < 0:
             alerts.append({
                 'type': 'OVERSPENDING',
                 'message': f"You've overspent this month by ₹{abs(daily_budget_info['remaining_for_month']):.2f}"
@@ -304,3 +316,34 @@ class BudgetCalculator:
             })
         
         return list(reversed(trends))
+    
+    async def get_monthly_savings_target(self, user_id: int) -> float:
+        """
+        Calculate total monthly savings target from all active savings goals
+        """
+        from app.models.budget import SavingsGoal
+        
+        stmt = select(SavingsGoal).where(
+            and_(
+                SavingsGoal.user_id == user_id,
+                SavingsGoal.is_active == True
+            )
+        ).order_by(SavingsGoal.priority.asc())
+        
+        result = await self.db.execute(stmt)
+        goals = result.scalars().all()
+        
+        total_monthly_target = 0.0
+        
+        for goal in goals:
+            if goal.target_date:
+                months_left = max(1, (goal.target_date.year - datetime.now().year) * 12 + 
+                                 (goal.target_date.month - datetime.now().month))
+                remaining = max(0, goal.target_amount - goal.current_amount)
+                monthly_needed = remaining / months_left
+                total_monthly_target += monthly_needed
+            else:
+                # If no target date, aim to save 10% of target amount per month
+                total_monthly_target += goal.target_amount * 0.10
+        
+        return total_monthly_target

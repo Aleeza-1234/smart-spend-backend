@@ -26,4 +26,5 @@ class User(Base):
     budgets = relationship("Budget", back_populates="user", cascade="all, delete-orphan")
     income = relationship("Income", back_populates="user", cascade="all, delete-orphan")
     necessities = relationship("Necessity", back_populates="user", cascade="all, delete-orphan")
+    savings_goals = relationship("SavingsGoal", back_populates="user", cascade="all, delete-orphan")
     travel_plans = relationship("TravelPlan", back_populates="user", cascade="all, delete-orphan")

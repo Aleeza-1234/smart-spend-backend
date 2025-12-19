@@ -18,6 +18,7 @@ from app.schemas.transaction import (
 )
 from app.models.transaction import Transaction
 from app.services.sms_parser import SMSParser
+from app.core.datetime_utils import convert_timezone_aware_datetimes
 
 router = APIRouter()
 sms_parser = SMSParser()
@@ -57,10 +58,20 @@ async def create_transaction(
     """
     Create a new transaction
     """
+    # Check if user exists
+    from app.models.user import User
+    result = await db.execute(select(User).where(User.id == user_id))
+    user = result.scalar_one_or_none()
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+    
     # Create transaction object
+    transaction_data = transaction.model_dump()
+    transaction_data = convert_timezone_aware_datetimes(transaction_data)
+    
     db_transaction = Transaction(
         user_id=user_id,
-        **transaction.dict()
+        **transaction_data
     )
     
     # Predict category if not provided
@@ -92,6 +103,28 @@ async def create_transaction(
             db_transaction.is_anomaly = 1 if is_anomaly else 0
         except Exception as e:
             print(f"Anomaly detection error: {e}")
+    
+    # Update user's current balance
+    from app.models.user import User
+    user_stmt = select(User).where(User.id == user_id)
+    user_result = await db.execute(user_stmt)
+    user = user_result.scalar_one_or_none()
+    
+    if user:
+        if db_transaction.transaction_type == 'DEBIT':
+            user.current_balance -= db_transaction.amount
+        else:  # CREDIT
+            user.current_balance += db_transaction.amount
+        
+        # Use account balance from SMS if available, otherwise use calculated balance
+        if db_transaction.raw_sms and 'bal' in db_transaction.raw_sms.lower():
+            # Try to extract balance from SMS and use it to sync
+            from app.services.sms_parser import SMSParser
+            sms_parser = SMSParser()
+            parsed_sms = sms_parser.parse(db_transaction.raw_sms)
+            if parsed_sms.get('account_balance'):
+                user.current_balance = parsed_sms['account_balance']
+                db_transaction.account_balance = parsed_sms['account_balance']
     
     db.add(db_transaction)
     await db.commit()

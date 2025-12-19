@@ -61,15 +61,17 @@ class SMSParser:
         patterns = {
             # Amount patterns
             'amount': [
-                r'(?:rs\.?|inr|₹)\s*(\d+(?:,\d+)*(?:\.\d{2})?)',  # Rs 1,234.56
+                r'(?:rs\.?|inr|₹)[:.\s]*(\d+(?:,\d+)*(?:\.\d{2})?)',  # Rs:1,234.56 or Rs.1,234.56 or Rs 1,234.56
                 r'(\d+(?:,\d+)*(?:\.\d{2})?)\s*(?:rs\.?|inr|₹)',  # 1,234.56 Rs
-                r'(?:amount|amt)[\s:]*(?:rs\.?|inr|₹)?\s*(\d+(?:,\d+)*(?:\.\d{2})?)',  # Amount: 1234
+                r'(?:amount|amt)[\s:]*(?:rs\.?|inr|₹)?[:.\s]*(\d+(?:,\d+)*(?:\.\d{2})?)',  # Amount: Rs:1234
+                r'(?:debited|credited)\s+(?:for\s+)?(?:rs\.?|inr|₹)[:.\s]*(\d+(?:,\d+)*(?:\.\d{2})?)',  # Debited for Rs:250.00
             ],
             
             # Account balance patterns
             'balance': [
-                r'(?:avbl?\.?\s*bal|balance|bal)[\s:]*(?:rs\.?|inr|₹)?\s*(\d+(?:,\d+)*(?:\.\d{2})?)',
-                r'(?:bal|balance)[\s:]+(?:is\s+)?(?:rs\.?|inr|₹)?\s*(\d+(?:,\d+)*(?:\.\d{2})?)',
+                r'(?:avbl?\.?\s*bal|balance|bal)[\s:]*(?:rs\.?|inr|₹)?[:.\s]*(\d+(?:,\d+)*(?:\.\d{2})?)',  # Avl Bal Rs:5989.97
+                r'(?:bal|balance)[\s:]+(?:is\s+)?(?:rs\.?|inr|₹)?[:.\s]*(\d+(?:,\d+)*(?:\.\d{2})?)',
+                r'(?:total\s+)?(?:bal|balance)[\s:]*(?:rs\.?|inr|₹)?[:.\s]*(\d+(?:,\d+)*(?:\.\d{2})?)',
             ],
             
             # Merchant/Beneficiary patterns
@@ -77,6 +79,8 @@ class SMSParser:
                 r'(?:to|at|from)\s+([A-Z][A-Za-z0-9\s&\-\.]{2,30}?)(?:\s+on|\s+via|\s+using|\.|$)',
                 r'(?:merchant|beneficiary)[\s:]+([A-Za-z0-9\s&\-\.]{3,30})',
                 r'(?:paid to|sent to|received from)\s+([A-Za-z0-9\s&\-\.]{3,30})',
+                r'by\s+([A-Za-z0-9\s&\-\.]{2,20}?)\s+(?:ref|upi|on|\d)',  # by Mob Bk ref no
+                r'(?:via|using)\s+([A-Za-z0-9\s&\-\.]{3,30})',
             ],
             
             # UPI ID patterns
