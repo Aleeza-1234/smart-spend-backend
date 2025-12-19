@@ -1,0 +1,1001 @@
+user_id,amount,merchant,category,transaction_type,timestamp,raw_sms
+1,3291.6,Hostel,Bills,DEBIT,2024-12-19 13:01:58.204743,Transaction successful: Hostel Rs 3291.60
+1,2577.72,Books,Education,DEBIT,2024-12-19 13:01:58.204743,Transaction successful: Books Rs 2577.72
+1,367.29,Petrol Pump,Transport,DEBIT,2024-12-20 13:01:58.204743,Debited Rs 367.29 from account to Petrol Pump
+1,250.09,Swiggy,Food,DEBIT,2024-12-20 13:01:58.204743,Rs 250.09 paid to Swiggy via UPI
+1,174.33,Zomato,Food,DEBIT,2024-12-20 13:01:58.204743,Rs 174.33 paid to Zomato via UPI
+1,272.82,Uber,Transport,DEBIT,2024-12-20 13:01:58.204743,Debited Rs 272.82 from account to Uber
+1,4123.03,Skincare,Shopping,DEBIT,2024-12-21 13:01:58.204743,Transaction successful: Skincare Rs 4123.03
+1,633.97,Gym,Health,DEBIT,2024-12-21 13:01:58.204743,Rs 633.97 paid to Gym via UPI
+1,1526.74,Phone,Bills,DEBIT,2024-12-21 13:01:58.204743,Debited Rs 1526.74 from account to Phone
+1,225.66,Myntra,Shopping,DEBIT,2024-12-21 13:01:58.204743,Spent Rs 225.66 at Myntra
+1,299.04,Petrol Pump,Transport,DEBIT,2024-12-22 13:01:58.204743,Debited Rs 299.04 from account to Petrol Pump
+1,283.51,Uber,Transport,DEBIT,2024-12-22 13:01:58.204743,Spent Rs 283.51 at Uber
+1,361.93,Rapido,Transport,DEBIT,2024-12-23 13:01:58.204743,Debited Rs 361.93 from account to Rapido
+1,1087.94,Coursera,Education,DEBIT,2024-12-23 13:01:58.204743,Debited Rs 1087.94 from account to Coursera
+1,1185.87,Books,Education,DEBIT,2024-12-23 13:01:58.204743,Spent Rs 1185.87 at Books
+1,100.71,Dominos,Food,DEBIT,2024-12-23 13:01:58.204743,Spent Rs 100.71 at Dominos
+1,4320.11,Coursera,Education,DEBIT,2024-12-23 13:01:58.204743,Rs 4320.11 paid to Coursera via UPI
+1,2496.88,Udemy,Education,DEBIT,2024-12-23 13:01:58.204743,Transaction successful: Udemy Rs 2496.88
+1,688.77,Hostel,Bills,DEBIT,2024-12-24 13:01:58.204743,Debited Rs 688.77 from account to Hostel
+1,175.15,Zomato,Food,DEBIT,2024-12-25 13:01:58.204743,Spent Rs 175.15 at Zomato
+1,3824.51,Phone,Bills,DEBIT,2024-12-25 13:01:58.204743,Spent Rs 3824.51 at Phone
+1,1042.35,Coursera,Education,DEBIT,2024-12-25 13:01:58.204743,Debited Rs 1042.35 from account to Coursera
+1,1760.54,College,Bills,DEBIT,2024-12-25 13:01:58.204743,Rs 1760.54 paid to College via UPI
+1,361.41,Gaming,Entertainment,DEBIT,2024-12-26 13:01:58.204743,Spent Rs 361.41 at Gaming
+1,3131.45,Books,Education,DEBIT,2024-12-26 13:01:58.204743,Spent Rs 3131.45 at Books
+1,1092.05,Udemy,Education,DEBIT,2024-12-26 13:01:58.204743,Spent Rs 1092.05 at Udemy
+1,4361.57,Flipkart,Shopping,DEBIT,2024-12-26 13:01:58.204743,Debited Rs 4361.57 from account to Flipkart
+1,1192.88,Netflix,Entertainment,DEBIT,2024-12-27 13:01:58.204743,Debited Rs 1192.88 from account to Netflix
+1,1810.79,Pharmacy,Health,DEBIT,2024-12-27 13:01:58.204743,Debited Rs 1810.79 from account to Pharmacy
+1,1556.03,Books,Education,DEBIT,2024-12-28 13:01:58.204743,Transaction successful: Books Rs 1556.03
+1,125.9,Ola,Transport,DEBIT,2024-12-28 13:01:58.204743,Debited Rs 125.90 from account to Ola
+1,348.88,Local Restaurant,Food,DEBIT,2024-12-28 13:01:58.204743,Rs 348.88 paid to Local Restaurant via UPI
+1,616.92,BookMyShow,Entertainment,DEBIT,2024-12-28 13:01:58.204743,Debited Rs 616.92 from account to BookMyShow
+1,388.66,Gaming,Entertainment,DEBIT,2024-12-29 13:01:58.204743,Rs 388.66 paid to Gaming via UPI
+1,414.2,Uber,Transport,DEBIT,2024-12-29 13:01:58.204743,Rs 414.20 paid to Uber via UPI
+1,955.7,Hospital,Health,DEBIT,2024-12-30 13:01:58.204743,Debited Rs 955.70 from account to Hospital
+1,598.69,Dominos,Food,DEBIT,2024-12-30 13:01:58.204743,Transaction successful: Dominos Rs 598.69
+1,1108.92,Amazon Prime,Entertainment,DEBIT,2024-12-30 13:01:58.204743,Transaction successful: Amazon Prime Rs 1108.92
+1,4410.03,Amazon,Shopping,DEBIT,2024-12-30 13:01:58.204743,Rs 4410.03 paid to Amazon via UPI
+1,385.62,Bus,Transport,DEBIT,2024-12-30 13:01:58.204743,Transaction successful: Bus Rs 385.62
+1,802.65,Gym,Health,DEBIT,2024-12-31 13:01:58.204743,Rs 802.65 paid to Gym via UPI
+1,549.93,Flipkart,Shopping,DEBIT,2024-12-31 13:01:58.204743,Spent Rs 549.93 at Flipkart
+1,4954.82,Coursera,Education,DEBIT,2024-12-31 13:01:58.204743,Spent Rs 4954.82 at Coursera
+1,1301.83,Gym,Health,DEBIT,2025-01-01 13:01:58.204743,Rs 1301.83 paid to Gym via UPI
+1,66.85,Zomato,Food,DEBIT,2025-01-01 13:01:58.204743,Debited Rs 66.85 from account to Zomato
+1,2007.08,Books,Education,DEBIT,2025-01-02 13:01:58.204743,Transaction successful: Books Rs 2007.08
+1,2287.93,Phone,Bills,DEBIT,2025-01-03 13:01:58.204743,Debited Rs 2287.93 from account to Phone
+1,2747.08,Hostel,Bills,DEBIT,2025-01-03 13:01:58.204743,Rs 2747.08 paid to Hostel via UPI
+1,3564.94,Phone,Bills,DEBIT,2025-01-03 13:01:58.204743,Spent Rs 3564.94 at Phone
+1,604.8,Dominos,Food,DEBIT,2025-01-03 13:01:58.204743,Debited Rs 604.80 from account to Dominos
+1,171.45,Petrol Pump,Transport,DEBIT,2025-01-04 13:01:58.204743,Spent Rs 171.45 at Petrol Pump
+1,577.93,Phone,Bills,DEBIT,2025-01-04 13:01:58.204743,Transaction successful: Phone Rs 577.93
+1,1739.97,Books,Education,DEBIT,2025-01-04 13:01:58.204743,Rs 1739.97 paid to Books via UPI
+1,4607.94,Phone,Bills,DEBIT,2025-01-04 13:01:58.204743,Spent Rs 4607.94 at Phone
+1,1662.94,Udemy,Education,DEBIT,2025-01-05 13:01:58.204743,Debited Rs 1662.94 from account to Udemy
+1,1197.58,BookMyShow,Entertainment,DEBIT,2025-01-05 13:01:58.204743,Rs 1197.58 paid to BookMyShow via UPI
+1,3263.95,Meesho,Shopping,DEBIT,2025-01-06 13:01:58.204743,Transaction successful: Meesho Rs 3263.95
+1,500.06,BookMyShow,Entertainment,DEBIT,2025-01-06 13:01:58.204743,Rs 500.06 paid to BookMyShow via UPI
+1,4694.96,Meesho,Shopping,DEBIT,2025-01-07 13:01:58.204743,Rs 4694.96 paid to Meesho via UPI
+1,1920.34,Pharmacy,Health,DEBIT,2025-01-07 13:01:58.204743,Transaction successful: Pharmacy Rs 1920.34
+1,1459.43,Hospital,Health,DEBIT,2025-01-08 13:01:58.204743,Transaction successful: Hospital Rs 1459.43
+1,2405.34,Meesho,Shopping,DEBIT,2025-01-08 13:01:58.204743,Rs 2405.34 paid to Meesho via UPI
+1,4928.5,Udemy,Education,DEBIT,2025-01-08 13:01:58.204743,Rs 4928.50 paid to Udemy via UPI
+1,73.48,Dominos,Food,DEBIT,2025-01-08 13:01:58.204743,Transaction successful: Dominos Rs 73.48
+1,268.5,Uber,Transport,DEBIT,2025-01-08 13:01:58.204743,Spent Rs 268.50 at Uber
+1,4550.9,Flipkart,Shopping,DEBIT,2025-01-08 13:01:58.204743,Spent Rs 4550.90 at Flipkart
+1,1039.51,Pharmacy,Health,DEBIT,2025-01-08 13:01:58.204743,Rs 1039.51 paid to Pharmacy via UPI
+1,1592.22,Local Store,Shopping,DEBIT,2025-01-09 13:01:58.204743,Transaction successful: Local Store Rs 1592.22
+1,2427.15,Amazon,Shopping,DEBIT,2025-01-09 13:01:58.204743,Rs 2427.15 paid to Amazon via UPI
+1,456.91,Swiggy,Food,DEBIT,2025-01-09 13:01:58.204743,Rs 456.91 paid to Swiggy via UPI
+1,1970.87,Hospital,Health,DEBIT,2025-01-09 13:01:58.204743,Spent Rs 1970.87 at Hospital
+1,248.3,Amazon Prime,Entertainment,DEBIT,2025-01-10 13:01:58.204743,Debited Rs 248.30 from account to Amazon Prime
+1,355.93,BookMyShow,Entertainment,DEBIT,2025-01-11 13:01:58.204743,Spent Rs 355.93 at BookMyShow
+1,3770.37,Udemy,Education,DEBIT,2025-01-11 13:01:58.204743,Spent Rs 3770.37 at Udemy
+1,496.35,Dominos,Food,DEBIT,2025-01-11 13:01:58.204743,Debited Rs 496.35 from account to Dominos
+1,793.14,College,Bills,DEBIT,2025-01-12 13:01:58.204743,Transaction successful: College Rs 793.14
+1,184.65,Uber,Transport,DEBIT,2025-01-12 13:01:58.204743,Debited Rs 184.65 from account to Uber
+1,3820.41,Books,Education,DEBIT,2025-01-12 13:01:58.204743,Debited Rs 3820.41 from account to Books
+1,4532.34,Coursera,Education,DEBIT,2025-01-12 13:01:58.204743,Rs 4532.34 paid to Coursera via UPI
+1,1117.14,Hospital,Health,DEBIT,2025-01-12 13:01:58.204743,Debited Rs 1117.14 from account to Hospital
+1,1675.73,Hospital,Health,DEBIT,2025-01-12 13:01:58.204743,Debited Rs 1675.73 from account to Hospital
+1,239.38,McDonald,Food,DEBIT,2025-01-13 13:01:58.204743,Rs 239.38 paid to McDonald via UPI
+1,1535.24,Coursera,Education,DEBIT,2025-01-14 13:01:58.204743,Transaction successful: Coursera Rs 1535.24
+1,137.82,Ola,Transport,DEBIT,2025-01-15 13:01:58.204743,Spent Rs 137.82 at Ola
+1,1208.7,Phone,Bills,DEBIT,2025-01-16 13:01:58.204743,Debited Rs 1208.70 from account to Phone
+1,2041.34,Meesho,Shopping,DEBIT,2025-01-16 13:01:58.204743,Transaction successful: Meesho Rs 2041.34
+1,1588.94,Pharmacy,Health,DEBIT,2025-01-17 13:01:58.204743,Transaction successful: Pharmacy Rs 1588.94
+1,2479.46,Local Store,Shopping,DEBIT,2025-01-17 13:01:58.204743,Debited Rs 2479.46 from account to Local Store
+1,3739.06,Udemy,Education,DEBIT,2025-01-19 13:01:58.204743,Rs 3739.06 paid to Udemy via UPI
+1,796.16,Amazon Prime,Entertainment,DEBIT,2025-01-19 13:01:58.204743,Transaction successful: Amazon Prime Rs 796.16
+1,2063.22,Local Store,Shopping,DEBIT,2025-01-20 13:01:58.204743,Debited Rs 2063.22 from account to Local Store
+1,3304.84,Udemy,Education,DEBIT,2025-01-20 13:01:58.204743,Spent Rs 3304.84 at Udemy
+1,1800.36,Flipkart,Shopping,DEBIT,2025-01-22 13:01:58.204743,Spent Rs 1800.36 at Flipkart
+1,1124.31,BookMyShow,Entertainment,DEBIT,2025-01-23 13:01:58.204743,Rs 1124.31 paid to BookMyShow via UPI
+1,1687.27,Pharmacy,Health,DEBIT,2025-01-23 13:01:58.204743,Debited Rs 1687.27 from account to Pharmacy
+1,422.68,Metro,Transport,DEBIT,2025-01-24 13:01:58.204743,Rs 422.68 paid to Metro via UPI
+1,1520.67,Gym,Health,DEBIT,2025-01-24 13:01:58.204743,Spent Rs 1520.67 at Gym
+1,625.83,Zomato,Food,DEBIT,2025-01-25 13:01:58.204743,Debited Rs 625.83 from account to Zomato
+1,496.73,Swiggy,Food,DEBIT,2025-01-25 13:01:58.204743,Transaction successful: Swiggy Rs 496.73
+1,669.55,Local Restaurant,Food,DEBIT,2025-01-25 13:01:58.204743,Spent Rs 669.55 at Local Restaurant
+1,459.24,Rapido,Transport,DEBIT,2025-01-26 13:01:58.204743,Spent Rs 459.24 at Rapido
+1,1674.86,Gym,Health,DEBIT,2025-01-26 13:01:58.204743,Rs 1674.86 paid to Gym via UPI
+1,261.06,Ola,Transport,DEBIT,2025-01-26 13:01:58.204743,Spent Rs 261.06 at Ola
+1,3382.77,Coursera,Education,DEBIT,2025-01-26 13:01:58.204743,Debited Rs 3382.77 from account to Coursera
+1,348.18,Swiggy,Food,DEBIT,2025-01-26 13:01:58.204743,Rs 348.18 paid to Swiggy via UPI
+1,3190.24,Myntra,Shopping,DEBIT,2025-01-27 13:01:58.204743,Debited Rs 3190.24 from account to Myntra
+1,4759.05,Books,Education,DEBIT,2025-01-27 13:01:58.204743,Debited Rs 4759.05 from account to Books
+1,1120.93,Netflix,Entertainment,DEBIT,2025-01-27 13:01:58.204743,Transaction successful: Netflix Rs 1120.93
+1,2041.4,College,Bills,DEBIT,2025-01-28 13:01:58.204743,Spent Rs 2041.40 at College
+1,810.38,Amazon Prime,Entertainment,DEBIT,2025-01-28 13:01:58.204743,Transaction successful: Amazon Prime Rs 810.38
+1,162.04,Uber,Transport,DEBIT,2025-01-28 13:01:58.204743,Debited Rs 162.04 from account to Uber
+1,1148.83,Netflix,Entertainment,DEBIT,2025-01-28 13:01:58.204743,Debited Rs 1148.83 from account to Netflix
+1,431.56,Metro,Transport,DEBIT,2025-01-28 13:01:58.204743,Rs 431.56 paid to Metro via UPI
+1,4591.12,Hostel,Bills,DEBIT,2025-01-28 13:01:58.204743,Rs 4591.12 paid to Hostel via UPI
+1,295.3,Uber,Transport,DEBIT,2025-01-29 13:01:58.204743,Debited Rs 295.30 from account to Uber
+1,1106.36,Hospital,Health,DEBIT,2025-01-29 13:01:58.204743,Spent Rs 1106.36 at Hospital
+1,495.4,Gaming,Entertainment,DEBIT,2025-01-29 13:01:58.204743,Spent Rs 495.40 at Gaming
+1,277.1,Flipkart,Shopping,DEBIT,2025-01-30 13:01:58.204743,Spent Rs 277.10 at Flipkart
+1,51.02,Dominos,Food,DEBIT,2025-01-30 13:01:58.204743,Debited Rs 51.02 from account to Dominos
+1,538.61,Swiggy,Food,DEBIT,2025-01-30 13:01:58.204743,Spent Rs 538.61 at Swiggy
+1,1930.12,Pharmacy,Health,DEBIT,2025-01-31 13:01:58.204743,Debited Rs 1930.12 from account to Pharmacy
+1,1775.11,Gym,Health,DEBIT,2025-02-01 13:01:58.204743,Rs 1775.11 paid to Gym via UPI
+1,1029.82,Gym,Health,DEBIT,2025-02-01 13:01:58.204743,Debited Rs 1029.82 from account to Gym
+1,3159.92,Flipkart,Shopping,DEBIT,2025-02-02 13:01:58.204743,Transaction successful: Flipkart Rs 3159.92
+1,4092.56,Hostel,Bills,DEBIT,2025-02-02 13:01:58.204743,Debited Rs 4092.56 from account to Hostel
+1,495.35,McDonald,Food,DEBIT,2025-02-02 13:01:58.204743,Spent Rs 495.35 at McDonald
+1,755.34,Dominos,Food,DEBIT,2025-02-02 13:01:58.204743,Debited Rs 755.34 from account to Dominos
+1,422.12,Dominos,Food,DEBIT,2025-02-03 13:01:58.204743,Transaction successful: Dominos Rs 422.12
+1,473.71,Uber,Transport,DEBIT,2025-02-03 13:01:58.204743,Spent Rs 473.71 at Uber
+1,894.74,College,Bills,DEBIT,2025-02-03 13:01:58.204743,Debited Rs 894.74 from account to College
+1,743.32,Hostel,Bills,DEBIT,2025-02-03 13:01:58.204743,Transaction successful: Hostel Rs 743.32
+1,205.61,Gaming,Entertainment,DEBIT,2025-02-03 13:01:58.204743,Debited Rs 205.61 from account to Gaming
+1,1934.9,Books,Education,DEBIT,2025-02-04 13:01:58.204743,Spent Rs 1934.90 at Books
+1,4891.96,Udemy,Education,DEBIT,2025-02-05 13:01:58.204743,Spent Rs 4891.96 at Udemy
+1,452.76,Local Restaurant,Food,DEBIT,2025-02-05 13:01:58.204743,Rs 452.76 paid to Local Restaurant via UPI
+1,134.04,Gaming,Entertainment,DEBIT,2025-02-05 13:01:58.204743,Spent Rs 134.04 at Gaming
+1,2654.96,College,Bills,DEBIT,2025-02-05 13:01:58.204743,Rs 2654.96 paid to College via UPI
+1,2818.81,Local Store,Shopping,DEBIT,2025-02-05 13:01:58.204743,Debited Rs 2818.81 from account to Local Store
+1,1721.96,Books,Education,DEBIT,2025-02-05 13:01:58.204743,Transaction successful: Books Rs 1721.96
+1,608.78,Gym,Health,DEBIT,2025-02-06 13:01:58.204743,Debited Rs 608.78 from account to Gym
+1,2450.88,Hostel,Bills,DEBIT,2025-02-06 13:01:58.204743,Spent Rs 2450.88 at Hostel
+1,647.48,Netflix,Entertainment,DEBIT,2025-02-06 13:01:58.204743,Spent Rs 647.48 at Netflix
+1,300.86,Uber,Transport,DEBIT,2025-02-07 13:01:58.204743,Debited Rs 300.86 from account to Uber
+1,3088.32,College,Bills,DEBIT,2025-02-07 13:01:58.204743,Transaction successful: College Rs 3088.32
+1,1866.27,Pharmacy,Health,DEBIT,2025-02-07 13:01:58.204743,Debited Rs 1866.27 from account to Pharmacy
+1,1959.9,Hospital,Health,DEBIT,2025-02-07 13:01:58.204743,Rs 1959.90 paid to Hospital via UPI
+1,3446.12,Udemy,Education,DEBIT,2025-02-07 13:01:58.204743,Transaction successful: Udemy Rs 3446.12
+1,581.37,Swiggy,Food,DEBIT,2025-02-07 13:01:58.204743,Spent Rs 581.37 at Swiggy
+1,1272.97,Pharmacy,Health,DEBIT,2025-02-08 13:01:58.204743,Rs 1272.97 paid to Pharmacy via UPI
+1,100.52,Bus,Transport,DEBIT,2025-02-08 13:01:58.204743,Spent Rs 100.52 at Bus
+1,322.72,Dominos,Food,DEBIT,2025-02-08 13:01:58.204743,Spent Rs 322.72 at Dominos
+1,1666.8,Phone,Bills,DEBIT,2025-02-09 13:01:58.204743,Spent Rs 1666.80 at Phone
+1,1361.27,Flipkart,Shopping,DEBIT,2025-02-09 13:01:58.204743,Spent Rs 1361.27 at Flipkart
+1,173.17,Ola,Transport,DEBIT,2025-02-09 13:01:58.204743,Rs 173.17 paid to Ola via UPI
+1,560.53,McDonald,Food,DEBIT,2025-02-09 13:01:58.204743,Spent Rs 560.53 at McDonald
+1,3090.5,Hostel,Bills,DEBIT,2025-02-09 13:01:58.204743,Transaction successful: Hostel Rs 3090.50
+1,919.21,BookMyShow,Entertainment,DEBIT,2025-02-09 13:01:58.204743,Debited Rs 919.21 from account to BookMyShow
+1,4040.23,Phone,Bills,DEBIT,2025-02-10 13:01:58.204743,Rs 4040.23 paid to Phone via UPI
+1,2240.75,Flipkart,Shopping,DEBIT,2025-02-10 13:01:58.204743,Rs 2240.75 paid to Flipkart via UPI
+1,1293.05,Netflix,Entertainment,DEBIT,2025-02-10 13:01:58.204743,Spent Rs 1293.05 at Netflix
+1,416.07,Ola,Transport,DEBIT,2025-02-10 13:01:58.204743,Spent Rs 416.07 at Ola
+1,113.61,Petrol Pump,Transport,DEBIT,2025-02-11 13:01:58.204743,Spent Rs 113.61 at Petrol Pump
+1,1398.53,Coursera,Education,DEBIT,2025-02-11 13:01:58.204743,Spent Rs 1398.53 at Coursera
+1,1185.48,Coursera,Education,DEBIT,2025-02-11 13:01:58.204743,Transaction successful: Coursera Rs 1185.48
+1,702.42,Swiggy,Food,DEBIT,2025-02-11 13:01:58.204743,Transaction successful: Swiggy Rs 702.42
+1,1533.08,Gym,Health,DEBIT,2025-02-12 13:01:58.204743,Transaction successful: Gym Rs 1533.08
+1,1366.28,Pharmacy,Health,DEBIT,2025-02-12 13:01:58.204743,Transaction successful: Pharmacy Rs 1366.28
+1,2807.34,Hostel,Bills,DEBIT,2025-02-12 13:01:58.204743,Rs 2807.34 paid to Hostel via UPI
+1,731.74,BookMyShow,Entertainment,DEBIT,2025-02-14 13:01:58.204743,Spent Rs 731.74 at BookMyShow
+1,78.47,Uber,Transport,DEBIT,2025-02-14 13:01:58.204743,Debited Rs 78.47 from account to Uber
+1,280.49,Rapido,Transport,DEBIT,2025-02-14 13:01:58.204743,Transaction successful: Rapido Rs 280.49
+1,1353.91,Amazon,Shopping,DEBIT,2025-02-14 13:01:58.204743,Rs 1353.91 paid to Amazon via UPI
+1,1841.39,Hostel,Bills,DEBIT,2025-02-14 13:01:58.204743,Spent Rs 1841.39 at Hostel
+1,752.12,Zomato,Food,DEBIT,2025-02-14 13:01:58.204743,Transaction successful: Zomato Rs 752.12
+1,1098.94,Pharmacy,Health,DEBIT,2025-02-15 13:01:58.204743,Spent Rs 1098.94 at Pharmacy
+1,566.1,Swiggy,Food,DEBIT,2025-02-16 13:01:58.204743,Spent Rs 566.10 at Swiggy
+1,2185.16,Coursera,Education,DEBIT,2025-02-16 13:01:58.204743,Spent Rs 2185.16 at Coursera
+1,2661.31,College,Bills,DEBIT,2025-02-17 13:01:58.204743,Transaction successful: College Rs 2661.31
+1,583.34,Hospital,Health,DEBIT,2025-02-17 13:01:58.204743,Spent Rs 583.34 at Hospital
+1,2855.26,Udemy,Education,DEBIT,2025-02-17 13:01:58.204743,Debited Rs 2855.26 from account to Udemy
+1,1492.87,Gaming,Entertainment,DEBIT,2025-02-17 13:01:58.204743,Transaction successful: Gaming Rs 1492.87
+1,740.65,McDonald,Food,DEBIT,2025-02-17 13:01:58.204743,Debited Rs 740.65 from account to McDonald
+1,58.61,Swiggy,Food,DEBIT,2025-02-18 13:01:58.204743,Debited Rs 58.61 from account to Swiggy
+1,2890.92,Books,Education,DEBIT,2025-02-18 13:01:58.204743,Debited Rs 2890.92 from account to Books
+1,4489.72,Udemy,Education,DEBIT,2025-02-18 13:01:58.204743,Spent Rs 4489.72 at Udemy
+1,987.26,Amazon Prime,Entertainment,DEBIT,2025-02-18 13:01:58.204743,Spent Rs 987.26 at Amazon Prime
+1,386.37,Rapido,Transport,DEBIT,2025-02-18 13:01:58.204743,Debited Rs 386.37 from account to Rapido
+1,404.23,Bus,Transport,DEBIT,2025-02-18 13:01:58.204743,Rs 404.23 paid to Bus via UPI
+1,3203.59,Coursera,Education,DEBIT,2025-02-18 13:01:58.204743,Debited Rs 3203.59 from account to Coursera
+1,270.12,Dominos,Food,DEBIT,2025-02-19 13:01:58.204743,Transaction successful: Dominos Rs 270.12
+1,4821.49,Meesho,Shopping,DEBIT,2025-02-19 13:01:58.204743,Debited Rs 4821.49 from account to Meesho
+1,1089.49,Gaming,Entertainment,DEBIT,2025-02-20 13:01:58.204743,Rs 1089.49 paid to Gaming via UPI
+1,325.71,Amazon Prime,Entertainment,DEBIT,2025-02-22 13:01:58.204743,Rs 325.71 paid to Amazon Prime via UPI
+1,604.47,Dominos,Food,DEBIT,2025-02-22 13:01:58.204743,Transaction successful: Dominos Rs 604.47
+1,1268.46,Gym,Health,DEBIT,2025-02-22 13:01:58.204743,Debited Rs 1268.46 from account to Gym
+1,1619.84,Pharmacy,Health,DEBIT,2025-02-23 13:01:58.204743,Transaction successful: Pharmacy Rs 1619.84
+1,3420.14,Phone,Bills,DEBIT,2025-02-23 13:01:58.204743,Debited Rs 3420.14 from account to Phone
+1,846.85,Books,Education,DEBIT,2025-02-23 13:01:58.204743,Spent Rs 846.85 at Books
+1,369.07,Bus,Transport,DEBIT,2025-02-23 13:01:58.204743,Spent Rs 369.07 at Bus
+1,1256.48,Phone,Bills,DEBIT,2025-02-24 13:01:58.204743,Debited Rs 1256.48 from account to Phone
+1,241.73,Zomato,Food,DEBIT,2025-02-24 13:01:58.204743,Rs 241.73 paid to Zomato via UPI
+1,722.69,Skincare,Shopping,DEBIT,2025-02-24 13:01:58.204743,Transaction successful: Skincare Rs 722.69
+1,649.92,Hostel,Bills,DEBIT,2025-02-24 13:01:58.204743,Rs 649.92 paid to Hostel via UPI
+1,1293.82,Netflix,Entertainment,DEBIT,2025-02-25 13:01:58.204743,Debited Rs 1293.82 from account to Netflix
+1,4793.39,Books,Education,DEBIT,2025-02-25 13:01:58.204743,Spent Rs 4793.39 at Books
+1,249.38,Netflix,Entertainment,DEBIT,2025-02-25 13:01:58.204743,Rs 249.38 paid to Netflix via UPI
+1,730.07,Myntra,Shopping,DEBIT,2025-02-25 13:01:58.204743,Debited Rs 730.07 from account to Myntra
+1,392.77,Uber,Transport,DEBIT,2025-02-26 13:01:58.204743,Transaction successful: Uber Rs 392.77
+1,1325.46,Udemy,Education,DEBIT,2025-02-28 13:01:58.204743,Debited Rs 1325.46 from account to Udemy
+1,424.73,Uber,Transport,DEBIT,2025-02-28 13:01:58.204743,Spent Rs 424.73 at Uber
+1,3038.13,Phone,Bills,DEBIT,2025-02-28 13:01:58.204743,Transaction successful: Phone Rs 3038.13
+1,1877.62,Coursera,Education,DEBIT,2025-02-28 13:01:58.204743,Transaction successful: Coursera Rs 1877.62
+1,932.69,Netflix,Entertainment,DEBIT,2025-03-01 13:01:58.204743,Transaction successful: Netflix Rs 932.69
+1,619.56,Netflix,Entertainment,DEBIT,2025-03-01 13:01:58.204743,Debited Rs 619.56 from account to Netflix
+1,4796.39,Myntra,Shopping,DEBIT,2025-03-01 13:01:58.204743,Debited Rs 4796.39 from account to Myntra
+1,655.3,Zomato,Food,DEBIT,2025-03-01 13:01:58.204743,Debited Rs 655.30 from account to Zomato
+1,392.33,Uber,Transport,DEBIT,2025-03-01 13:01:58.204743,Debited Rs 392.33 from account to Uber
+1,572.55,Myntra,Shopping,DEBIT,2025-03-01 13:01:58.204743,Debited Rs 572.55 from account to Myntra
+1,1692.24,Phone,Bills,DEBIT,2025-03-01 13:01:58.204743,Transaction successful: Phone Rs 1692.24
+1,249.77,Gaming,Entertainment,DEBIT,2025-03-02 13:01:58.204743,Debited Rs 249.77 from account to Gaming
+1,1253.27,Gaming,Entertainment,DEBIT,2025-03-02 13:01:58.204743,Transaction successful: Gaming Rs 1253.27
+1,1319.86,Pharmacy,Health,DEBIT,2025-03-03 13:01:58.204743,Debited Rs 1319.86 from account to Pharmacy
+1,700.28,Local Store,Shopping,DEBIT,2025-03-04 13:01:58.204743,Debited Rs 700.28 from account to Local Store
+1,557.71,Local Restaurant,Food,DEBIT,2025-03-04 13:01:58.204743,Transaction successful: Local Restaurant Rs 557.71
+1,1149.0,BookMyShow,Entertainment,DEBIT,2025-03-04 13:01:58.204743,Spent Rs 1149.00 at BookMyShow
+1,636.79,Local Restaurant,Food,DEBIT,2025-03-05 13:01:58.204743,Transaction successful: Local Restaurant Rs 636.79
+1,4492.24,Flipkart,Shopping,DEBIT,2025-03-06 13:01:58.204743,Rs 4492.24 paid to Flipkart via UPI
+1,1543.92,Hospital,Health,DEBIT,2025-03-06 13:01:58.204743,Spent Rs 1543.92 at Hospital
+1,991.34,Netflix,Entertainment,DEBIT,2025-03-07 13:01:58.204743,Debited Rs 991.34 from account to Netflix
+1,4320.4,Phone,Bills,DEBIT,2025-03-07 13:01:58.204743,Debited Rs 4320.40 from account to Phone
+1,2940.34,Amazon,Shopping,DEBIT,2025-03-08 13:01:58.204743,Rs 2940.34 paid to Amazon via UPI
+1,1887.55,Phone,Bills,DEBIT,2025-03-08 13:01:58.204743,Rs 1887.55 paid to Phone via UPI
+1,396.49,Bus,Transport,DEBIT,2025-03-09 13:01:58.204743,Rs 396.49 paid to Bus via UPI
+1,2303.23,Skincare,Shopping,DEBIT,2025-03-10 13:01:58.204743,Debited Rs 2303.23 from account to Skincare
+1,4407.42,College,Bills,DEBIT,2025-03-10 13:01:58.204743,Spent Rs 4407.42 at College
+1,2866.38,Skincare,Shopping,DEBIT,2025-03-10 13:01:58.204743,Rs 2866.38 paid to Skincare via UPI
+1,161.62,Bus,Transport,DEBIT,2025-03-11 13:01:58.204743,Rs 161.62 paid to Bus via UPI
+1,111.82,Metro,Transport,DEBIT,2025-03-11 13:01:58.204743,Rs 111.82 paid to Metro via UPI
+1,4328.06,Books,Education,DEBIT,2025-03-11 13:01:58.204743,Transaction successful: Books Rs 4328.06
+1,212.16,Amazon Prime,Entertainment,DEBIT,2025-03-12 13:01:58.204743,Spent Rs 212.16 at Amazon Prime
+1,2114.41,Local Store,Shopping,DEBIT,2025-03-12 13:01:58.204743,Spent Rs 2114.41 at Local Store
+1,3835.91,Local Store,Shopping,DEBIT,2025-03-13 13:01:58.204743,Spent Rs 3835.91 at Local Store
+1,207.59,Ola,Transport,DEBIT,2025-03-13 13:01:58.204743,Rs 207.59 paid to Ola via UPI
+1,2883.17,Phone,Bills,DEBIT,2025-03-14 13:01:58.204743,Rs 2883.17 paid to Phone via UPI
+1,1493.87,Gym,Health,DEBIT,2025-03-14 13:01:58.204743,Debited Rs 1493.87 from account to Gym
+1,892.45,Gaming,Entertainment,DEBIT,2025-03-14 13:01:58.204743,Debited Rs 892.45 from account to Gaming
+1,114.87,Uber,Transport,DEBIT,2025-03-14 13:01:58.204743,Rs 114.87 paid to Uber via UPI
+1,837.21,Netflix,Entertainment,DEBIT,2025-03-15 13:01:58.204743,Transaction successful: Netflix Rs 837.21
+1,920.81,Meesho,Shopping,DEBIT,2025-03-15 13:01:58.204743,Debited Rs 920.81 from account to Meesho
+1,2778.2,Udemy,Education,DEBIT,2025-03-15 13:01:58.204743,Rs 2778.20 paid to Udemy via UPI
+1,4843.08,Books,Education,DEBIT,2025-03-16 13:01:58.204743,Spent Rs 4843.08 at Books
+1,1801.88,Hospital,Health,DEBIT,2025-03-16 13:01:58.204743,Rs 1801.88 paid to Hospital via UPI
+1,680.31,Amazon Prime,Entertainment,DEBIT,2025-03-18 13:01:58.204743,Transaction successful: Amazon Prime Rs 680.31
+1,4898.6,Coursera,Education,DEBIT,2025-03-18 13:01:58.204743,Rs 4898.60 paid to Coursera via UPI
+1,427.09,Metro,Transport,DEBIT,2025-03-18 13:01:58.204743,Rs 427.09 paid to Metro via UPI
+1,489.46,Pharmacy,Health,DEBIT,2025-03-18 13:01:58.204743,Spent Rs 489.46 at Pharmacy
+1,1474.5,Gym,Health,DEBIT,2025-03-18 13:01:58.204743,Rs 1474.50 paid to Gym via UPI
+1,2925.52,Phone,Bills,DEBIT,2025-03-19 13:01:58.204743,Rs 2925.52 paid to Phone via UPI
+1,884.62,Amazon Prime,Entertainment,DEBIT,2025-03-19 13:01:58.204743,Rs 884.62 paid to Amazon Prime via UPI
+1,379.15,Bus,Transport,DEBIT,2025-03-19 13:01:58.204743,Rs 379.15 paid to Bus via UPI
+1,4282.2,Hostel,Bills,DEBIT,2025-03-20 13:01:58.204743,Rs 4282.20 paid to Hostel via UPI
+1,2081.37,Hostel,Bills,DEBIT,2025-03-20 13:01:58.204743,Rs 2081.37 paid to Hostel via UPI
+1,862.76,Amazon Prime,Entertainment,DEBIT,2025-03-20 13:01:58.204743,Transaction successful: Amazon Prime Rs 862.76
+1,2055.78,Meesho,Shopping,DEBIT,2025-03-20 13:01:58.204743,Debited Rs 2055.78 from account to Meesho
+1,728.69,Hospital,Health,DEBIT,2025-03-21 13:01:58.204743,Rs 728.69 paid to Hospital via UPI
+1,4880.32,Skincare,Shopping,DEBIT,2025-03-22 13:01:58.204743,Spent Rs 4880.32 at Skincare
+1,496.1,McDonald,Food,DEBIT,2025-03-22 13:01:58.204743,Spent Rs 496.10 at McDonald
+1,438.1,BookMyShow,Entertainment,DEBIT,2025-03-22 13:01:58.204743,Rs 438.10 paid to BookMyShow via UPI
+1,2876.89,Phone,Bills,DEBIT,2025-03-23 13:01:58.204743,Transaction successful: Phone Rs 2876.89
+1,3905.03,Local Store,Shopping,DEBIT,2025-03-23 13:01:58.204743,Transaction successful: Local Store Rs 3905.03
+1,1914.6,Udemy,Education,DEBIT,2025-03-24 13:01:58.204743,Spent Rs 1914.60 at Udemy
+1,589.92,Netflix,Entertainment,DEBIT,2025-03-24 13:01:58.204743,Transaction successful: Netflix Rs 589.92
+1,969.81,Gaming,Entertainment,DEBIT,2025-03-25 13:01:58.204743,Debited Rs 969.81 from account to Gaming
+1,928.04,Meesho,Shopping,DEBIT,2025-03-25 13:01:58.204743,Debited Rs 928.04 from account to Meesho
+1,1882.82,Flipkart,Shopping,DEBIT,2025-03-26 13:01:58.204743,Rs 1882.82 paid to Flipkart via UPI
+1,3224.67,Books,Education,DEBIT,2025-03-26 13:01:58.204743,Debited Rs 3224.67 from account to Books
+1,1273.66,BookMyShow,Entertainment,DEBIT,2025-03-26 13:01:58.204743,Debited Rs 1273.66 from account to BookMyShow
+1,356.57,Meesho,Shopping,DEBIT,2025-03-27 13:01:58.204743,Debited Rs 356.57 from account to Meesho
+1,1994.54,Hospital,Health,DEBIT,2025-03-27 13:01:58.204743,Debited Rs 1994.54 from account to Hospital
+1,912.12,Gaming,Entertainment,DEBIT,2025-03-27 13:01:58.204743,Spent Rs 912.12 at Gaming
+1,3955.46,Myntra,Shopping,DEBIT,2025-03-27 13:01:58.204743,Spent Rs 3955.46 at Myntra
+1,699.91,McDonald,Food,DEBIT,2025-03-28 13:01:58.204743,Rs 699.91 paid to McDonald via UPI
+1,597.87,McDonald,Food,DEBIT,2025-03-28 13:01:58.204743,Debited Rs 597.87 from account to McDonald
+1,312.5,Rapido,Transport,DEBIT,2025-03-28 13:01:58.204743,Spent Rs 312.50 at Rapido
+1,149.68,Petrol Pump,Transport,DEBIT,2025-03-29 13:01:58.204743,Debited Rs 149.68 from account to Petrol Pump
+1,1159.88,BookMyShow,Entertainment,DEBIT,2025-03-30 13:01:58.204743,Debited Rs 1159.88 from account to BookMyShow
+1,708.89,McDonald,Food,DEBIT,2025-03-30 13:01:58.204743,Rs 708.89 paid to McDonald via UPI
+1,876.68,Hospital,Health,DEBIT,2025-03-30 13:01:58.204743,Rs 876.68 paid to Hospital via UPI
+1,1213.61,College,Bills,DEBIT,2025-03-30 13:01:58.204743,Rs 1213.61 paid to College via UPI
+1,3703.78,College,Bills,DEBIT,2025-03-31 13:01:58.204743,Debited Rs 3703.78 from account to College
+1,2645.23,Amazon,Shopping,DEBIT,2025-03-31 13:01:58.204743,Spent Rs 2645.23 at Amazon
+1,1629.58,Hospital,Health,DEBIT,2025-03-31 13:01:58.204743,Rs 1629.58 paid to Hospital via UPI
+1,4833.21,Local Store,Shopping,DEBIT,2025-03-31 13:01:58.204743,Spent Rs 4833.21 at Local Store
+1,421.62,Swiggy,Food,DEBIT,2025-04-01 13:01:58.204743,Rs 421.62 paid to Swiggy via UPI
+1,594.85,Dominos,Food,DEBIT,2025-04-01 13:01:58.204743,Transaction successful: Dominos Rs 594.85
+1,2945.99,Coursera,Education,DEBIT,2025-04-01 13:01:58.204743,Spent Rs 2945.99 at Coursera
+1,1155.01,College,Bills,DEBIT,2025-04-01 13:01:58.204743,Transaction successful: College Rs 1155.01
+1,551.43,Zomato,Food,DEBIT,2025-04-02 13:01:58.204743,Rs 551.43 paid to Zomato via UPI
+1,416.08,Ola,Transport,DEBIT,2025-04-03 13:01:58.204743,Transaction successful: Ola Rs 416.08
+1,340.54,Dominos,Food,DEBIT,2025-04-04 13:01:58.204743,Rs 340.54 paid to Dominos via UPI
+1,4168.23,Myntra,Shopping,DEBIT,2025-04-04 13:01:58.204743,Transaction successful: Myntra Rs 4168.23
+1,849.69,Pharmacy,Health,DEBIT,2025-04-05 13:01:58.204743,Transaction successful: Pharmacy Rs 849.69
+1,792.92,Gym,Health,DEBIT,2025-04-05 13:01:58.204743,Spent Rs 792.92 at Gym
+1,3708.69,Phone,Bills,DEBIT,2025-04-06 13:01:58.204743,Transaction successful: Phone Rs 3708.69
+1,4291.27,College,Bills,DEBIT,2025-04-06 13:01:58.204743,Transaction successful: College Rs 4291.27
+1,1257.54,Netflix,Entertainment,DEBIT,2025-04-06 13:01:58.204743,Transaction successful: Netflix Rs 1257.54
+1,312.22,Amazon Prime,Entertainment,DEBIT,2025-04-06 13:01:58.204743,Spent Rs 312.22 at Amazon Prime
+1,669.44,Local Restaurant,Food,DEBIT,2025-04-07 13:01:58.204743,Debited Rs 669.44 from account to Local Restaurant
+1,436.2,Amazon Prime,Entertainment,DEBIT,2025-04-08 13:01:58.204743,Debited Rs 436.20 from account to Amazon Prime
+1,4876.13,Meesho,Shopping,DEBIT,2025-04-08 13:01:58.204743,Transaction successful: Meesho Rs 4876.13
+1,159.7,Hospital,Health,DEBIT,2025-04-08 13:01:58.204743,Rs 159.70 paid to Hospital via UPI
+1,873.76,College,Bills,DEBIT,2025-04-08 13:01:58.204743,Rs 873.76 paid to College via UPI
+1,408.91,Petrol Pump,Transport,DEBIT,2025-04-10 13:01:58.204743,Transaction successful: Petrol Pump Rs 408.91
+1,1044.77,Gym,Health,DEBIT,2025-04-10 13:01:58.204743,Debited Rs 1044.77 from account to Gym
+1,319.96,Metro,Transport,DEBIT,2025-04-10 13:01:58.204743,Debited Rs 319.96 from account to Metro
+1,237.16,Bus,Transport,DEBIT,2025-04-11 13:01:58.204743,Rs 237.16 paid to Bus via UPI
+1,120.13,Netflix,Entertainment,DEBIT,2025-04-11 13:01:58.204743,Debited Rs 120.13 from account to Netflix
+1,2252.49,Skincare,Shopping,DEBIT,2025-04-11 13:01:58.204743,Spent Rs 2252.49 at Skincare
+1,351.13,Rapido,Transport,DEBIT,2025-04-11 13:01:58.204743,Rs 351.13 paid to Rapido via UPI
+1,4591.36,College,Bills,DEBIT,2025-04-14 13:01:58.204743,Debited Rs 4591.36 from account to College
+1,993.03,Gaming,Entertainment,DEBIT,2025-04-14 13:01:58.204743,Rs 993.03 paid to Gaming via UPI
+1,1355.4,Amazon Prime,Entertainment,DEBIT,2025-04-14 13:01:58.204743,Spent Rs 1355.40 at Amazon Prime
+1,4722.47,College,Bills,DEBIT,2025-04-14 13:01:58.204743,Transaction successful: College Rs 4722.47
+1,942.26,BookMyShow,Entertainment,DEBIT,2025-04-15 13:01:58.204743,Debited Rs 942.26 from account to BookMyShow
+1,2591.19,Flipkart,Shopping,DEBIT,2025-04-15 13:01:58.204743,Transaction successful: Flipkart Rs 2591.19
+1,413.82,Swiggy,Food,DEBIT,2025-04-15 13:01:58.204743,Debited Rs 413.82 from account to Swiggy
+1,920.13,BookMyShow,Entertainment,DEBIT,2025-04-15 13:01:58.204743,Debited Rs 920.13 from account to BookMyShow
+1,1579.04,Coursera,Education,DEBIT,2025-04-15 13:01:58.204743,Spent Rs 1579.04 at Coursera
+1,353.4,Dominos,Food,DEBIT,2025-04-15 13:01:58.204743,Spent Rs 353.40 at Dominos
+1,2133.77,Coursera,Education,DEBIT,2025-04-16 13:01:58.204743,Spent Rs 2133.77 at Coursera
+1,246.82,Amazon Prime,Entertainment,DEBIT,2025-04-16 13:01:58.204743,Debited Rs 246.82 from account to Amazon Prime
+1,3952.59,Meesho,Shopping,DEBIT,2025-04-17 13:01:58.204743,Spent Rs 3952.59 at Meesho
+1,494.92,Local Restaurant,Food,DEBIT,2025-04-17 13:01:58.204743,Transaction successful: Local Restaurant Rs 494.92
+1,479.33,Meesho,Shopping,DEBIT,2025-04-19 13:01:58.204743,Debited Rs 479.33 from account to Meesho
+1,599.31,McDonald,Food,DEBIT,2025-04-19 13:01:58.204743,Rs 599.31 paid to McDonald via UPI
+1,1548.67,Hospital,Health,DEBIT,2025-04-20 13:01:58.204743,Rs 1548.67 paid to Hospital via UPI
+1,493.95,Amazon Prime,Entertainment,DEBIT,2025-04-21 13:01:58.204743,Transaction successful: Amazon Prime Rs 493.95
+1,346.79,Petrol Pump,Transport,DEBIT,2025-04-21 13:01:58.204743,Debited Rs 346.79 from account to Petrol Pump
+1,4960.07,Coursera,Education,DEBIT,2025-04-21 13:01:58.204743,Transaction successful: Coursera Rs 4960.07
+1,4307.54,Skincare,Shopping,DEBIT,2025-04-21 13:01:58.204743,Debited Rs 4307.54 from account to Skincare
+1,4548.5,Coursera,Education,DEBIT,2025-04-22 13:01:58.204743,Rs 4548.50 paid to Coursera via UPI
+1,3277.04,College,Bills,DEBIT,2025-04-23 13:01:58.204743,Transaction successful: College Rs 3277.04
+1,3780.41,Coursera,Education,DEBIT,2025-04-23 13:01:58.204743,Debited Rs 3780.41 from account to Coursera
+1,3229.62,Skincare,Shopping,DEBIT,2025-04-23 13:01:58.204743,Transaction successful: Skincare Rs 3229.62
+1,68.01,Metro,Transport,DEBIT,2025-04-24 13:01:58.204743,Debited Rs 68.01 from account to Metro
+1,4482.34,Coursera,Education,DEBIT,2025-04-24 13:01:58.204743,Transaction successful: Coursera Rs 4482.34
+1,1926.15,Udemy,Education,DEBIT,2025-04-25 13:01:58.204743,Rs 1926.15 paid to Udemy via UPI
+1,1799.65,Gym,Health,DEBIT,2025-04-25 13:01:58.204743,Spent Rs 1799.65 at Gym
+1,1395.46,Books,Education,DEBIT,2025-04-25 13:01:58.204743,Rs 1395.46 paid to Books via UPI
+1,701.68,McDonald,Food,DEBIT,2025-04-26 13:01:58.204743,Spent Rs 701.68 at McDonald
+1,1847.11,Gym,Health,DEBIT,2025-04-26 13:01:58.204743,Spent Rs 1847.11 at Gym
+1,240.74,Local Restaurant,Food,DEBIT,2025-04-28 13:01:58.204743,Spent Rs 240.74 at Local Restaurant
+1,1116.34,Amazon Prime,Entertainment,DEBIT,2025-04-28 13:01:58.204743,Spent Rs 1116.34 at Amazon Prime
+1,695.99,Dominos,Food,DEBIT,2025-04-29 13:01:58.204743,Debited Rs 695.99 from account to Dominos
+1,2083.73,College,Bills,DEBIT,2025-04-29 13:01:58.204743,Spent Rs 2083.73 at College
+1,1142.56,Pharmacy,Health,DEBIT,2025-04-30 13:01:58.204743,Debited Rs 1142.56 from account to Pharmacy
+1,67.32,Ola,Transport,DEBIT,2025-04-30 13:01:58.204743,Transaction successful: Ola Rs 67.32
+1,2764.86,Amazon,Shopping,DEBIT,2025-04-30 13:01:58.204743,Rs 2764.86 paid to Amazon via UPI
+1,899.63,Skincare,Shopping,DEBIT,2025-04-30 13:01:58.204743,Spent Rs 899.63 at Skincare
+1,328.39,Pharmacy,Health,DEBIT,2025-05-01 13:01:58.204743,Transaction successful: Pharmacy Rs 328.39
+1,4370.08,Hostel,Bills,DEBIT,2025-05-01 13:01:58.204743,Transaction successful: Hostel Rs 4370.08
+1,263.66,Amazon Prime,Entertainment,DEBIT,2025-05-01 13:01:58.204743,Transaction successful: Amazon Prime Rs 263.66
+1,3223.64,College,Bills,DEBIT,2025-05-01 13:01:58.204743,Spent Rs 3223.64 at College
+1,3526.31,College,Bills,DEBIT,2025-05-01 13:01:58.204743,Transaction successful: College Rs 3526.31
+1,3734.33,Udemy,Education,DEBIT,2025-05-01 13:01:58.204743,Spent Rs 3734.33 at Udemy
+1,2475.23,Meesho,Shopping,DEBIT,2025-05-01 13:01:58.204743,Spent Rs 2475.23 at Meesho
+1,1774.91,Phone,Bills,DEBIT,2025-05-01 13:01:58.204743,Transaction successful: Phone Rs 1774.91
+1,439.76,Pharmacy,Health,DEBIT,2025-05-02 13:01:58.204743,Transaction successful: Pharmacy Rs 439.76
+1,694.96,McDonald,Food,DEBIT,2025-05-02 13:01:58.204743,Debited Rs 694.96 from account to McDonald
+1,193.9,Dominos,Food,DEBIT,2025-05-03 13:01:58.204743,Debited Rs 193.90 from account to Dominos
+1,54.25,Local Restaurant,Food,DEBIT,2025-05-03 13:01:58.204743,Debited Rs 54.25 from account to Local Restaurant
+1,2160.89,Local Store,Shopping,DEBIT,2025-05-04 13:01:58.204743,Rs 2160.89 paid to Local Store via UPI
+1,203.81,Hospital,Health,DEBIT,2025-05-05 13:01:58.204743,Spent Rs 203.81 at Hospital
+1,593.65,Hospital,Health,DEBIT,2025-05-05 13:01:58.204743,Transaction successful: Hospital Rs 593.65
+1,4128.82,Coursera,Education,DEBIT,2025-05-05 13:01:58.204743,Transaction successful: Coursera Rs 4128.82
+1,413.26,Local Restaurant,Food,DEBIT,2025-05-06 13:01:58.204743,Debited Rs 413.26 from account to Local Restaurant
+1,559.74,Swiggy,Food,DEBIT,2025-05-07 13:01:58.204743,Transaction successful: Swiggy Rs 559.74
+1,3733.99,Amazon,Shopping,DEBIT,2025-05-07 13:01:58.204743,Transaction successful: Amazon Rs 3733.99
+1,3396.68,Hostel,Bills,DEBIT,2025-05-08 13:01:58.204743,Spent Rs 3396.68 at Hostel
+1,425.08,Local Restaurant,Food,DEBIT,2025-05-08 13:01:58.204743,Rs 425.08 paid to Local Restaurant via UPI
+1,805.05,Phone,Bills,DEBIT,2025-05-09 13:01:58.204743,Spent Rs 805.05 at Phone
+1,211.76,Swiggy,Food,DEBIT,2025-05-09 13:01:58.204743,Debited Rs 211.76 from account to Swiggy
+1,131.3,Uber,Transport,DEBIT,2025-05-10 13:01:58.204743,Transaction successful: Uber Rs 131.30
+1,417.07,Zomato,Food,DEBIT,2025-05-10 13:01:58.204743,Transaction successful: Zomato Rs 417.07
+1,507.37,Dominos,Food,DEBIT,2025-05-10 13:01:58.204743,Debited Rs 507.37 from account to Dominos
+1,645.89,Zomato,Food,DEBIT,2025-05-11 13:01:58.204743,Rs 645.89 paid to Zomato via UPI
+1,2566.52,Myntra,Shopping,DEBIT,2025-05-11 13:01:58.204743,Debited Rs 2566.52 from account to Myntra
+1,123.17,Zomato,Food,DEBIT,2025-05-11 13:01:58.204743,Spent Rs 123.17 at Zomato
+1,3461.12,Hostel,Bills,DEBIT,2025-05-11 13:01:58.204743,Debited Rs 3461.12 from account to Hostel
+1,293.69,Amazon Prime,Entertainment,DEBIT,2025-05-11 13:01:58.204743,Debited Rs 293.69 from account to Amazon Prime
+1,1617.78,Phone,Bills,DEBIT,2025-05-12 13:01:58.204743,Debited Rs 1617.78 from account to Phone
+1,657.26,Flipkart,Shopping,DEBIT,2025-05-12 13:01:58.204743,Transaction successful: Flipkart Rs 657.26
+1,4847.33,Myntra,Shopping,DEBIT,2025-05-12 13:01:58.204743,Debited Rs 4847.33 from account to Myntra
+1,2453.09,Udemy,Education,DEBIT,2025-05-13 13:01:58.204743,Transaction successful: Udemy Rs 2453.09
+1,1720.36,Hospital,Health,DEBIT,2025-05-13 13:01:58.204743,Rs 1720.36 paid to Hospital via UPI
+1,1330.77,Hospital,Health,DEBIT,2025-05-13 13:01:58.204743,Transaction successful: Hospital Rs 1330.77
+1,310.61,Rapido,Transport,DEBIT,2025-05-13 13:01:58.204743,Transaction successful: Rapido Rs 310.61
+1,2484.65,Amazon,Shopping,DEBIT,2025-05-13 13:01:58.204743,Spent Rs 2484.65 at Amazon
+1,4647.44,Hostel,Bills,DEBIT,2025-05-14 13:01:58.204743,Debited Rs 4647.44 from account to Hostel
+1,1435.49,Udemy,Education,DEBIT,2025-05-14 13:01:58.204743,Spent Rs 1435.49 at Udemy
+1,365.86,Petrol Pump,Transport,DEBIT,2025-05-14 13:01:58.204743,Debited Rs 365.86 from account to Petrol Pump
+1,457.27,Local Restaurant,Food,DEBIT,2025-05-14 13:01:58.204743,Transaction successful: Local Restaurant Rs 457.27
+1,2797.53,Coursera,Education,DEBIT,2025-05-14 13:01:58.204743,Rs 2797.53 paid to Coursera via UPI
+1,298.59,Petrol Pump,Transport,DEBIT,2025-05-15 13:01:58.204743,Spent Rs 298.59 at Petrol Pump
+1,73.39,Zomato,Food,DEBIT,2025-05-15 13:01:58.204743,Transaction successful: Zomato Rs 73.39
+1,1311.41,Amazon Prime,Entertainment,DEBIT,2025-05-15 13:01:58.204743,Transaction successful: Amazon Prime Rs 1311.41
+1,1987.27,Phone,Bills,DEBIT,2025-05-15 13:01:58.204743,Transaction successful: Phone Rs 1987.27
+1,149.8,Gaming,Entertainment,DEBIT,2025-05-15 13:01:58.204743,Debited Rs 149.80 from account to Gaming
+1,1491.23,Gym,Health,DEBIT,2025-05-16 13:01:58.204743,Debited Rs 1491.23 from account to Gym
+1,178.0,McDonald,Food,DEBIT,2025-05-16 13:01:58.204743,Debited Rs 178.00 from account to McDonald
+1,4241.76,Amazon,Shopping,DEBIT,2025-05-16 13:01:58.204743,Spent Rs 4241.76 at Amazon
+1,709.71,BookMyShow,Entertainment,DEBIT,2025-05-17 13:01:58.204743,Debited Rs 709.71 from account to BookMyShow
+1,485.44,Local Restaurant,Food,DEBIT,2025-05-17 13:01:58.204743,Rs 485.44 paid to Local Restaurant via UPI
+1,47.0,Metro,Transport,DEBIT,2025-05-18 13:01:58.204743,Rs 47.00 paid to Metro via UPI
+1,305.8,McDonald,Food,DEBIT,2025-05-18 13:01:58.204743,Transaction successful: McDonald Rs 305.80
+1,544.99,Gym,Health,DEBIT,2025-05-19 13:01:58.204743,Spent Rs 544.99 at Gym
+1,95.06,Ola,Transport,DEBIT,2025-05-20 13:01:58.204743,Spent Rs 95.06 at Ola
+1,465.63,Zomato,Food,DEBIT,2025-05-20 13:01:58.204743,Rs 465.63 paid to Zomato via UPI
+1,661.74,Books,Education,DEBIT,2025-05-20 13:01:58.204743,Rs 661.74 paid to Books via UPI
+1,901.24,Gym,Health,DEBIT,2025-05-21 13:01:58.204743,Rs 901.24 paid to Gym via UPI
+1,433.35,Swiggy,Food,DEBIT,2025-05-21 13:01:58.204743,Rs 433.35 paid to Swiggy via UPI
+1,400.26,Petrol Pump,Transport,DEBIT,2025-05-21 13:01:58.204743,Debited Rs 400.26 from account to Petrol Pump
+1,2270.52,Books,Education,DEBIT,2025-05-21 13:01:58.204743,Spent Rs 2270.52 at Books
+1,1666.58,Pharmacy,Health,DEBIT,2025-05-21 13:01:58.204743,Rs 1666.58 paid to Pharmacy via UPI
+1,692.54,Pharmacy,Health,DEBIT,2025-05-23 13:01:58.204743,Spent Rs 692.54 at Pharmacy
+1,2791.33,Meesho,Shopping,DEBIT,2025-05-24 13:01:58.204743,Transaction successful: Meesho Rs 2791.33
+1,928.38,Netflix,Entertainment,DEBIT,2025-05-24 13:01:58.204743,Transaction successful: Netflix Rs 928.38
+1,1293.11,Hospital,Health,DEBIT,2025-05-25 13:01:58.204743,Spent Rs 1293.11 at Hospital
+1,51.58,McDonald,Food,DEBIT,2025-05-25 13:01:58.204743,Debited Rs 51.58 from account to McDonald
+1,408.34,Bus,Transport,DEBIT,2025-05-26 13:01:58.204743,Spent Rs 408.34 at Bus
+1,4038.95,Flipkart,Shopping,DEBIT,2025-05-26 13:01:58.204743,Transaction successful: Flipkart Rs 4038.95
+1,4407.23,Udemy,Education,DEBIT,2025-05-26 13:01:58.204743,Rs 4407.23 paid to Udemy via UPI
+1,420.32,BookMyShow,Entertainment,DEBIT,2025-05-27 13:01:58.204743,Transaction successful: BookMyShow Rs 420.32
+1,709.3,McDonald,Food,DEBIT,2025-05-27 13:01:58.204743,Transaction successful: McDonald Rs 709.30
+1,619.3,Coursera,Education,DEBIT,2025-05-27 13:01:58.204743,Transaction successful: Coursera Rs 619.30
+1,1501.93,Pharmacy,Health,DEBIT,2025-05-28 13:01:58.204743,Spent Rs 1501.93 at Pharmacy
+1,439.9,Meesho,Shopping,DEBIT,2025-05-28 13:01:58.204743,Debited Rs 439.90 from account to Meesho
+1,1425.85,BookMyShow,Entertainment,DEBIT,2025-05-28 13:01:58.204743,Rs 1425.85 paid to BookMyShow via UPI
+1,342.69,Ola,Transport,DEBIT,2025-05-28 13:01:58.204743,Transaction successful: Ola Rs 342.69
+1,179.51,Bus,Transport,DEBIT,2025-05-28 13:01:58.204743,Debited Rs 179.51 from account to Bus
+1,467.75,Netflix,Entertainment,DEBIT,2025-05-29 13:01:58.204743,Transaction successful: Netflix Rs 467.75
+1,864.14,Coursera,Education,DEBIT,2025-05-30 13:01:58.204743,Rs 864.14 paid to Coursera via UPI
+1,1517.09,Gym,Health,DEBIT,2025-05-30 13:01:58.204743,Spent Rs 1517.09 at Gym
+1,367.97,Bus,Transport,DEBIT,2025-05-30 13:01:58.204743,Spent Rs 367.97 at Bus
+1,206.16,Gym,Health,DEBIT,2025-05-30 13:01:58.204743,Transaction successful: Gym Rs 206.16
+1,1607.45,Pharmacy,Health,DEBIT,2025-05-30 13:01:58.204743,Transaction successful: Pharmacy Rs 1607.45
+1,349.28,Swiggy,Food,DEBIT,2025-05-30 13:01:58.204743,Debited Rs 349.28 from account to Swiggy
+1,597.24,Hospital,Health,DEBIT,2025-05-30 13:01:58.204743,Transaction successful: Hospital Rs 597.24
+1,1022.67,Hospital,Health,DEBIT,2025-05-30 13:01:58.204743,Spent Rs 1022.67 at Hospital
+1,3030.17,Hostel,Bills,DEBIT,2025-05-31 13:01:58.204743,Debited Rs 3030.17 from account to Hostel
+1,3877.36,Amazon,Shopping,DEBIT,2025-05-31 13:01:58.204743,Transaction successful: Amazon Rs 3877.36
+1,1741.38,Hostel,Bills,DEBIT,2025-05-31 13:01:58.204743,Debited Rs 1741.38 from account to Hostel
+1,4452.2,Hostel,Bills,DEBIT,2025-05-31 13:01:58.204743,Transaction successful: Hostel Rs 4452.20
+1,1667.75,Hospital,Health,DEBIT,2025-06-01 13:01:58.204743,Debited Rs 1667.75 from account to Hospital
+1,1677.42,Hospital,Health,DEBIT,2025-06-01 13:01:58.204743,Rs 1677.42 paid to Hospital via UPI
+1,893.08,Gym,Health,DEBIT,2025-06-01 13:01:58.204743,Debited Rs 893.08 from account to Gym
+1,488.11,Bus,Transport,DEBIT,2025-06-02 13:01:58.204743,Spent Rs 488.11 at Bus
+1,3536.63,Hostel,Bills,DEBIT,2025-06-04 13:01:58.204743,Transaction successful: Hostel Rs 3536.63
+1,369.72,Petrol Pump,Transport,DEBIT,2025-06-05 13:01:58.204743,Transaction successful: Petrol Pump Rs 369.72
+1,3654.36,Coursera,Education,DEBIT,2025-06-06 13:01:58.204743,Debited Rs 3654.36 from account to Coursera
+1,1983.86,Phone,Bills,DEBIT,2025-06-06 13:01:58.204743,Debited Rs 1983.86 from account to Phone
+1,528.27,McDonald,Food,DEBIT,2025-06-06 13:01:58.204743,Rs 528.27 paid to McDonald via UPI
+1,508.89,McDonald,Food,DEBIT,2025-06-06 13:01:58.204743,Spent Rs 508.89 at McDonald
+1,1297.65,Local Store,Shopping,DEBIT,2025-06-07 13:01:58.204743,Debited Rs 1297.65 from account to Local Store
+1,4305.49,College,Bills,DEBIT,2025-06-07 13:01:58.204743,Spent Rs 4305.49 at College
+1,199.44,Hospital,Health,DEBIT,2025-06-08 13:01:58.204743,Rs 199.44 paid to Hospital via UPI
+1,708.23,Amazon Prime,Entertainment,DEBIT,2025-06-09 13:01:58.204743,Debited Rs 708.23 from account to Amazon Prime
+1,767.27,Gaming,Entertainment,DEBIT,2025-06-09 13:01:58.204743,Spent Rs 767.27 at Gaming
+1,758.26,Amazon Prime,Entertainment,DEBIT,2025-06-09 13:01:58.204743,Spent Rs 758.26 at Amazon Prime
+1,1384.37,Pharmacy,Health,DEBIT,2025-06-10 13:01:58.204743,Debited Rs 1384.37 from account to Pharmacy
+1,474.95,Skincare,Shopping,DEBIT,2025-06-10 13:01:58.204743,Spent Rs 474.95 at Skincare
+1,1559.86,Myntra,Shopping,DEBIT,2025-06-10 13:01:58.204743,Transaction successful: Myntra Rs 1559.86
+1,511.66,Netflix,Entertainment,DEBIT,2025-06-11 13:01:58.204743,Rs 511.66 paid to Netflix via UPI
+1,559.23,McDonald,Food,DEBIT,2025-06-11 13:01:58.204743,Rs 559.23 paid to McDonald via UPI
+1,595.29,Swiggy,Food,DEBIT,2025-06-11 13:01:58.204743,Debited Rs 595.29 from account to Swiggy
+1,376.02,Local Store,Shopping,DEBIT,2025-06-11 13:01:58.204743,Debited Rs 376.02 from account to Local Store
+1,3796.86,Udemy,Education,DEBIT,2025-06-12 13:01:58.204743,Transaction successful: Udemy Rs 3796.86
+1,576.86,Swiggy,Food,DEBIT,2025-06-12 13:01:58.204743,Transaction successful: Swiggy Rs 576.86
+1,2452.18,Books,Education,DEBIT,2025-06-13 13:01:58.204743,Rs 2452.18 paid to Books via UPI
+1,392.52,Local Store,Shopping,DEBIT,2025-06-13 13:01:58.204743,Transaction successful: Local Store Rs 392.52
+1,1970.34,Udemy,Education,DEBIT,2025-06-13 13:01:58.204743,Rs 1970.34 paid to Udemy via UPI
+1,1181.31,Amazon,Shopping,DEBIT,2025-06-13 13:01:58.204743,Spent Rs 1181.31 at Amazon
+1,4667.14,College,Bills,DEBIT,2025-06-13 13:01:58.204743,Debited Rs 4667.14 from account to College
+1,790.46,Zomato,Food,DEBIT,2025-06-13 13:01:58.204743,Transaction successful: Zomato Rs 790.46
+1,999.01,Books,Education,DEBIT,2025-06-15 13:01:58.204743,Transaction successful: Books Rs 999.01
+1,733.42,Amazon Prime,Entertainment,DEBIT,2025-06-15 13:01:58.204743,Rs 733.42 paid to Amazon Prime via UPI
+1,4085.59,Books,Education,DEBIT,2025-06-17 13:01:58.204743,Spent Rs 4085.59 at Books
+1,486.73,BookMyShow,Entertainment,DEBIT,2025-06-17 13:01:58.204743,Spent Rs 486.73 at BookMyShow
+1,101.25,Petrol Pump,Transport,DEBIT,2025-06-17 13:01:58.204743,Spent Rs 101.25 at Petrol Pump
+1,3280.33,Amazon,Shopping,DEBIT,2025-06-18 13:01:58.204743,Transaction successful: Amazon Rs 3280.33
+1,1211.74,Phone,Bills,DEBIT,2025-06-18 13:01:58.204743,Transaction successful: Phone Rs 1211.74
+1,4299.61,Udemy,Education,DEBIT,2025-06-19 13:01:58.204743,Debited Rs 4299.61 from account to Udemy
+1,228.95,Local Restaurant,Food,DEBIT,2025-06-19 13:01:58.204743,Debited Rs 228.95 from account to Local Restaurant
+1,4345.03,Local Store,Shopping,DEBIT,2025-06-19 13:01:58.204743,Rs 4345.03 paid to Local Store via UPI
+1,2540.34,Amazon,Shopping,DEBIT,2025-06-20 13:01:58.204743,Transaction successful: Amazon Rs 2540.34
+1,628.59,Myntra,Shopping,DEBIT,2025-06-22 13:01:58.204743,Transaction successful: Myntra Rs 628.59
+1,2845.83,Udemy,Education,DEBIT,2025-06-22 13:01:58.204743,Spent Rs 2845.83 at Udemy
+1,748.2,Local Restaurant,Food,DEBIT,2025-06-22 13:01:58.204743,Transaction successful: Local Restaurant Rs 748.20
+1,1191.65,Hostel,Bills,DEBIT,2025-06-22 13:01:58.204743,Spent Rs 1191.65 at Hostel
+1,4032.94,Coursera,Education,DEBIT,2025-06-22 13:01:58.204743,Debited Rs 4032.94 from account to Coursera
+1,123.73,Netflix,Entertainment,DEBIT,2025-06-23 13:01:58.204743,Transaction successful: Netflix Rs 123.73
+1,59.3,Metro,Transport,DEBIT,2025-06-23 13:01:58.204743,Spent Rs 59.30 at Metro
+1,3007.08,Hostel,Bills,DEBIT,2025-06-24 13:01:58.204743,Rs 3007.08 paid to Hostel via UPI
+1,162.77,Rapido,Transport,DEBIT,2025-06-24 13:01:58.204743,Transaction successful: Rapido Rs 162.77
+1,971.87,Phone,Bills,DEBIT,2025-06-24 13:01:58.204743,Transaction successful: Phone Rs 971.87
+1,1448.9,BookMyShow,Entertainment,DEBIT,2025-06-24 13:01:58.204743,Rs 1448.90 paid to BookMyShow via UPI
+1,1807.27,Coursera,Education,DEBIT,2025-06-24 13:01:58.204743,Debited Rs 1807.27 from account to Coursera
+1,2831.62,College,Bills,DEBIT,2025-06-25 13:01:58.204743,Debited Rs 2831.62 from account to College
+1,423.91,Metro,Transport,DEBIT,2025-06-26 13:01:58.204743,Rs 423.91 paid to Metro via UPI
+1,1381.92,Coursera,Education,DEBIT,2025-06-26 13:01:58.204743,Spent Rs 1381.92 at Coursera
+1,1958.54,Local Store,Shopping,DEBIT,2025-06-26 13:01:58.204743,Rs 1958.54 paid to Local Store via UPI
+1,560.11,Local Restaurant,Food,DEBIT,2025-06-27 13:01:58.204743,Transaction successful: Local Restaurant Rs 560.11
+1,2473.42,Udemy,Education,DEBIT,2025-06-28 13:01:58.204743,Rs 2473.42 paid to Udemy via UPI
+1,2371.28,Phone,Bills,DEBIT,2025-06-28 13:01:58.204743,Debited Rs 2371.28 from account to Phone
+1,1206.12,Pharmacy,Health,DEBIT,2025-06-29 13:01:58.204743,Rs 1206.12 paid to Pharmacy via UPI
+1,386.61,Swiggy,Food,DEBIT,2025-06-30 13:01:58.204743,Spent Rs 386.61 at Swiggy
+1,1659.64,Gym,Health,DEBIT,2025-06-30 13:01:58.204743,Transaction successful: Gym Rs 1659.64
+1,4504.58,Amazon,Shopping,DEBIT,2025-07-01 13:01:58.204743,Transaction successful: Amazon Rs 4504.58
+1,162.47,Rapido,Transport,DEBIT,2025-07-02 13:01:58.204743,Rs 162.47 paid to Rapido via UPI
+1,596.99,Netflix,Entertainment,DEBIT,2025-07-02 13:01:58.204743,Debited Rs 596.99 from account to Netflix
+1,4586.97,Phone,Bills,DEBIT,2025-07-03 13:01:58.204743,Spent Rs 4586.97 at Phone
+1,230.77,Netflix,Entertainment,DEBIT,2025-07-03 13:01:58.204743,Transaction successful: Netflix Rs 230.77
+1,126.34,Local Restaurant,Food,DEBIT,2025-07-04 13:01:58.204743,Rs 126.34 paid to Local Restaurant via UPI
+1,1132.72,Pharmacy,Health,DEBIT,2025-07-04 13:01:58.204743,Rs 1132.72 paid to Pharmacy via UPI
+1,399.58,Metro,Transport,DEBIT,2025-07-04 13:01:58.204743,Transaction successful: Metro Rs 399.58
+1,3615.24,Udemy,Education,DEBIT,2025-07-04 13:01:58.204743,Spent Rs 3615.24 at Udemy
+1,2069.0,Books,Education,DEBIT,2025-07-05 13:01:58.204743,Spent Rs 2069.00 at Books
+1,3114.57,Udemy,Education,DEBIT,2025-07-07 13:01:58.204743,Rs 3114.57 paid to Udemy via UPI
+1,260.91,Gaming,Entertainment,DEBIT,2025-07-07 13:01:58.204743,Debited Rs 260.91 from account to Gaming
+1,219.2,Metro,Transport,DEBIT,2025-07-07 13:01:58.204743,Rs 219.20 paid to Metro via UPI
+1,1500.63,Books,Education,DEBIT,2025-07-07 13:01:58.204743,Rs 1500.63 paid to Books via UPI
+1,1155.55,Amazon Prime,Entertainment,DEBIT,2025-07-07 13:01:58.204743,Spent Rs 1155.55 at Amazon Prime
+1,973.36,Hospital,Health,DEBIT,2025-07-08 13:01:58.204743,Rs 973.36 paid to Hospital via UPI
+1,3491.16,College,Bills,DEBIT,2025-07-08 13:01:58.204743,Rs 3491.16 paid to College via UPI
+1,3584.4,Skincare,Shopping,DEBIT,2025-07-08 13:01:58.204743,Rs 3584.40 paid to Skincare via UPI
+1,2621.09,Phone,Bills,DEBIT,2025-07-08 13:01:58.204743,Transaction successful: Phone Rs 2621.09
+1,862.3,Amazon Prime,Entertainment,DEBIT,2025-07-08 13:01:58.204743,Spent Rs 862.30 at Amazon Prime
+1,803.12,Phone,Bills,DEBIT,2025-07-08 13:01:58.204743,Spent Rs 803.12 at Phone
+1,693.23,Gaming,Entertainment,DEBIT,2025-07-08 13:01:58.204743,Debited Rs 693.23 from account to Gaming
+1,3796.02,Coursera,Education,DEBIT,2025-07-09 13:01:58.204743,Spent Rs 3796.02 at Coursera
+1,2675.62,Hostel,Bills,DEBIT,2025-07-09 13:01:58.204743,Debited Rs 2675.62 from account to Hostel
+1,1428.0,Hospital,Health,DEBIT,2025-07-10 13:01:58.204743,Debited Rs 1428.00 from account to Hospital
+1,1961.07,Hospital,Health,DEBIT,2025-07-10 13:01:58.204743,Spent Rs 1961.07 at Hospital
+1,2876.64,College,Bills,DEBIT,2025-07-10 13:01:58.204743,Spent Rs 2876.64 at College
+1,3169.46,College,Bills,DEBIT,2025-07-11 13:01:58.204743,Rs 3169.46 paid to College via UPI
+1,954.51,Gym,Health,DEBIT,2025-07-11 13:01:58.204743,Rs 954.51 paid to Gym via UPI
+1,765.54,Swiggy,Food,DEBIT,2025-07-11 13:01:58.204743,Spent Rs 765.54 at Swiggy
+1,2681.11,Phone,Bills,DEBIT,2025-07-12 13:01:58.204743,Spent Rs 2681.11 at Phone
+1,1732.71,Amazon,Shopping,DEBIT,2025-07-12 13:01:58.204743,Transaction successful: Amazon Rs 1732.71
+1,413.06,Netflix,Entertainment,DEBIT,2025-07-12 13:01:58.204743,Spent Rs 413.06 at Netflix
+1,1453.98,Pharmacy,Health,DEBIT,2025-07-12 13:01:58.204743,Debited Rs 1453.98 from account to Pharmacy
+1,103.17,Local Restaurant,Food,DEBIT,2025-07-12 13:01:58.204743,Spent Rs 103.17 at Local Restaurant
+1,2633.89,Flipkart,Shopping,DEBIT,2025-07-13 13:01:58.204743,Spent Rs 2633.89 at Flipkart
+1,201.08,BookMyShow,Entertainment,DEBIT,2025-07-13 13:01:58.204743,Debited Rs 201.08 from account to BookMyShow
+1,405.69,McDonald,Food,DEBIT,2025-07-13 13:01:58.204743,Debited Rs 405.69 from account to McDonald
+1,1404.2,Books,Education,DEBIT,2025-07-14 13:01:58.204743,Rs 1404.20 paid to Books via UPI
+1,1493.35,Coursera,Education,DEBIT,2025-07-14 13:01:58.204743,Rs 1493.35 paid to Coursera via UPI
+1,46.6,Ola,Transport,DEBIT,2025-07-15 13:01:58.204743,Rs 46.60 paid to Ola via UPI
+1,3013.9,Flipkart,Shopping,DEBIT,2025-07-16 13:01:58.204743,Debited Rs 3013.90 from account to Flipkart
+1,300.13,Flipkart,Shopping,DEBIT,2025-07-17 13:01:58.204743,Rs 300.13 paid to Flipkart via UPI
+1,3724.83,College,Bills,DEBIT,2025-07-17 13:01:58.204743,Rs 3724.83 paid to College via UPI
+1,406.55,Local Restaurant,Food,DEBIT,2025-07-17 13:01:58.204743,Spent Rs 406.55 at Local Restaurant
+1,496.05,Bus,Transport,DEBIT,2025-07-17 13:01:58.204743,Transaction successful: Bus Rs 496.05
+1,2591.63,Myntra,Shopping,DEBIT,2025-07-17 13:01:58.204743,Rs 2591.63 paid to Myntra via UPI
+1,95.95,Petrol Pump,Transport,DEBIT,2025-07-17 13:01:58.204743,Spent Rs 95.95 at Petrol Pump
+1,1126.02,Coursera,Education,DEBIT,2025-07-19 13:01:58.204743,Debited Rs 1126.02 from account to Coursera
+1,131.14,Metro,Transport,DEBIT,2025-07-19 13:01:58.204743,Rs 131.14 paid to Metro via UPI
+1,1333.24,Hospital,Health,DEBIT,2025-07-19 13:01:58.204743,Transaction successful: Hospital Rs 1333.24
+1,714.89,Netflix,Entertainment,DEBIT,2025-07-20 13:01:58.204743,Debited Rs 714.89 from account to Netflix
+1,170.62,Swiggy,Food,DEBIT,2025-07-20 13:01:58.204743,Rs 170.62 paid to Swiggy via UPI
+1,1919.92,College,Bills,DEBIT,2025-07-20 13:01:58.204743,Transaction successful: College Rs 1919.92
+1,3874.9,Coursera,Education,DEBIT,2025-07-21 13:01:58.204743,Transaction successful: Coursera Rs 3874.90
+1,3158.49,Hostel,Bills,DEBIT,2025-07-21 13:01:58.204743,Debited Rs 3158.49 from account to Hostel
+1,2417.08,Hostel,Bills,DEBIT,2025-07-21 13:01:58.204743,Transaction successful: Hostel Rs 2417.08
+1,2707.73,Skincare,Shopping,DEBIT,2025-07-22 13:01:58.204743,Transaction successful: Skincare Rs 2707.73
+1,493.72,Petrol Pump,Transport,DEBIT,2025-07-22 13:01:58.204743,Transaction successful: Petrol Pump Rs 493.72
+1,3390.46,Udemy,Education,DEBIT,2025-07-22 13:01:58.204743,Debited Rs 3390.46 from account to Udemy
+1,75.83,Metro,Transport,DEBIT,2025-07-22 13:01:58.204743,Transaction successful: Metro Rs 75.83
+1,661.72,Udemy,Education,DEBIT,2025-07-22 13:01:58.204743,Spent Rs 661.72 at Udemy
+1,701.41,Dominos,Food,DEBIT,2025-07-22 13:01:58.204743,Spent Rs 701.41 at Dominos
+1,3204.45,College,Bills,DEBIT,2025-07-23 13:01:58.204743,Debited Rs 3204.45 from account to College
+1,1899.77,Pharmacy,Health,DEBIT,2025-07-23 13:01:58.204743,Debited Rs 1899.77 from account to Pharmacy
+1,3400.87,Skincare,Shopping,DEBIT,2025-07-23 13:01:58.204743,Spent Rs 3400.87 at Skincare
+1,231.58,Hospital,Health,DEBIT,2025-07-23 13:01:58.204743,Rs 231.58 paid to Hospital via UPI
+1,212.19,Metro,Transport,DEBIT,2025-07-23 13:01:58.204743,Spent Rs 212.19 at Metro
+1,672.32,McDonald,Food,DEBIT,2025-07-23 13:01:58.204743,Spent Rs 672.32 at McDonald
+1,350.3,Skincare,Shopping,DEBIT,2025-07-24 13:01:58.204743,Spent Rs 350.30 at Skincare
+1,968.49,Coursera,Education,DEBIT,2025-07-24 13:01:58.204743,Rs 968.49 paid to Coursera via UPI
+1,756.78,Hostel,Bills,DEBIT,2025-07-24 13:01:58.204743,Spent Rs 756.78 at Hostel
+1,890.69,Gym,Health,DEBIT,2025-07-25 13:01:58.204743,Debited Rs 890.69 from account to Gym
+1,436.82,Uber,Transport,DEBIT,2025-07-25 13:01:58.204743,Rs 436.82 paid to Uber via UPI
+1,4355.42,Hostel,Bills,DEBIT,2025-07-26 13:01:58.204743,Transaction successful: Hostel Rs 4355.42
+1,958.35,Phone,Bills,DEBIT,2025-07-26 13:01:58.204743,Rs 958.35 paid to Phone via UPI
+1,256.13,Gym,Health,DEBIT,2025-07-26 13:01:58.204743,Debited Rs 256.13 from account to Gym
+1,809.87,Gaming,Entertainment,DEBIT,2025-07-26 13:01:58.204743,Debited Rs 809.87 from account to Gaming
+1,660.35,Local Restaurant,Food,DEBIT,2025-07-26 13:01:58.204743,Spent Rs 660.35 at Local Restaurant
+1,1421.06,Coursera,Education,DEBIT,2025-07-27 13:01:58.204743,Spent Rs 1421.06 at Coursera
+1,754.3,McDonald,Food,DEBIT,2025-07-28 13:01:58.204743,Debited Rs 754.30 from account to McDonald
+1,327.33,Petrol Pump,Transport,DEBIT,2025-07-28 13:01:58.204743,Debited Rs 327.33 from account to Petrol Pump
+1,3387.26,Hostel,Bills,DEBIT,2025-07-28 13:01:58.204743,Transaction successful: Hostel Rs 3387.26
+1,358.64,Skincare,Shopping,DEBIT,2025-07-30 13:01:58.204743,Debited Rs 358.64 from account to Skincare
+1,443.13,Gym,Health,DEBIT,2025-07-30 13:01:58.204743,Transaction successful: Gym Rs 443.13
+1,2307.92,Meesho,Shopping,DEBIT,2025-07-31 13:01:58.204743,Spent Rs 2307.92 at Meesho
+1,632.77,Books,Education,DEBIT,2025-07-31 13:01:58.204743,Debited Rs 632.77 from account to Books
+1,1619.23,Hostel,Bills,DEBIT,2025-07-31 13:01:58.204743,Rs 1619.23 paid to Hostel via UPI
+1,224.16,Swiggy,Food,DEBIT,2025-07-31 13:01:58.204743,Transaction successful: Swiggy Rs 224.16
+1,287.98,Gaming,Entertainment,DEBIT,2025-08-01 13:01:58.204743,Transaction successful: Gaming Rs 287.98
+1,4465.99,Meesho,Shopping,DEBIT,2025-08-01 13:01:58.204743,Spent Rs 4465.99 at Meesho
+1,3815.93,Udemy,Education,DEBIT,2025-08-01 13:01:58.204743,Debited Rs 3815.93 from account to Udemy
+1,4530.73,Phone,Bills,DEBIT,2025-08-01 13:01:58.204743,Spent Rs 4530.73 at Phone
+1,4458.62,Skincare,Shopping,DEBIT,2025-08-02 13:01:58.204743,Debited Rs 4458.62 from account to Skincare
+1,4537.99,College,Bills,DEBIT,2025-08-02 13:01:58.204743,Transaction successful: College Rs 4537.99
+1,2312.96,Myntra,Shopping,DEBIT,2025-08-03 13:01:58.204743,Rs 2312.96 paid to Myntra via UPI
+1,132.97,Local Restaurant,Food,DEBIT,2025-08-03 13:01:58.204743,Debited Rs 132.97 from account to Local Restaurant
+1,1999.13,Gym,Health,DEBIT,2025-08-03 13:01:58.204743,Transaction successful: Gym Rs 1999.13
+1,202.13,Meesho,Shopping,DEBIT,2025-08-03 13:01:58.204743,Debited Rs 202.13 from account to Meesho
+1,664.33,McDonald,Food,DEBIT,2025-08-04 13:01:58.204743,Spent Rs 664.33 at McDonald
+1,797.55,Gaming,Entertainment,DEBIT,2025-08-04 13:01:58.204743,Debited Rs 797.55 from account to Gaming
+1,2392.41,Books,Education,DEBIT,2025-08-04 13:01:58.204743,Debited Rs 2392.41 from account to Books
+1,856.02,Gaming,Entertainment,DEBIT,2025-08-05 13:01:58.204743,Spent Rs 856.02 at Gaming
+1,2793.88,Phone,Bills,DEBIT,2025-08-06 13:01:58.204743,Transaction successful: Phone Rs 2793.88
+1,269.34,Hospital,Health,DEBIT,2025-08-06 13:01:58.204743,Spent Rs 269.34 at Hospital
+1,2729.8,Local Store,Shopping,DEBIT,2025-08-06 13:01:58.204743,Rs 2729.80 paid to Local Store via UPI
+1,946.08,Pharmacy,Health,DEBIT,2025-08-06 13:01:58.204743,Debited Rs 946.08 from account to Pharmacy
+1,67.33,Metro,Transport,DEBIT,2025-08-07 13:01:58.204743,Debited Rs 67.33 from account to Metro
+1,238.39,Petrol Pump,Transport,DEBIT,2025-08-07 13:01:58.204743,Debited Rs 238.39 from account to Petrol Pump
+1,701.68,Zomato,Food,DEBIT,2025-08-07 13:01:58.204743,Debited Rs 701.68 from account to Zomato
+1,644.88,Amazon Prime,Entertainment,DEBIT,2025-08-08 13:01:58.204743,Transaction successful: Amazon Prime Rs 644.88
+1,50.86,Rapido,Transport,DEBIT,2025-08-08 13:01:58.204743,Debited Rs 50.86 from account to Rapido
+1,2484.89,Flipkart,Shopping,DEBIT,2025-08-08 13:01:58.204743,Debited Rs 2484.89 from account to Flipkart
+1,450.68,Zomato,Food,DEBIT,2025-08-08 13:01:58.204743,Debited Rs 450.68 from account to Zomato
+1,143.34,Netflix,Entertainment,DEBIT,2025-08-09 13:01:58.204743,Transaction successful: Netflix Rs 143.34
+1,114.01,Dominos,Food,DEBIT,2025-08-10 13:01:58.204743,Transaction successful: Dominos Rs 114.01
+1,2718.83,Flipkart,Shopping,DEBIT,2025-08-11 13:01:58.204743,Debited Rs 2718.83 from account to Flipkart
+1,2987.63,Amazon,Shopping,DEBIT,2025-08-11 13:01:58.204743,Transaction successful: Amazon Rs 2987.63
+1,573.66,Pharmacy,Health,DEBIT,2025-08-12 13:01:58.204743,Transaction successful: Pharmacy Rs 573.66
+1,1062.03,Amazon Prime,Entertainment,DEBIT,2025-08-13 13:01:58.204743,Transaction successful: Amazon Prime Rs 1062.03
+1,2281.87,Udemy,Education,DEBIT,2025-08-13 13:01:58.204743,Spent Rs 2281.87 at Udemy
+1,66.61,Zomato,Food,DEBIT,2025-08-14 13:01:58.204743,Debited Rs 66.61 from account to Zomato
+1,3090.16,Myntra,Shopping,DEBIT,2025-08-14 13:01:58.204743,Spent Rs 3090.16 at Myntra
+1,642.97,Flipkart,Shopping,DEBIT,2025-08-14 13:01:58.204743,Spent Rs 642.97 at Flipkart
+1,1276.61,Local Store,Shopping,DEBIT,2025-08-14 13:01:58.204743,Debited Rs 1276.61 from account to Local Store
+1,255.25,Bus,Transport,DEBIT,2025-08-14 13:01:58.204743,Debited Rs 255.25 from account to Bus
+1,3535.08,Hostel,Bills,DEBIT,2025-08-14 13:01:58.204743,Spent Rs 3535.08 at Hostel
+1,3224.18,College,Bills,DEBIT,2025-08-15 13:01:58.204743,Spent Rs 3224.18 at College
+1,239.52,Bus,Transport,DEBIT,2025-08-16 13:01:58.204743,Transaction successful: Bus Rs 239.52
+1,1130.69,Pharmacy,Health,DEBIT,2025-08-16 13:01:58.204743,Spent Rs 1130.69 at Pharmacy
+1,323.21,Rapido,Transport,DEBIT,2025-08-17 13:01:58.204743,Debited Rs 323.21 from account to Rapido
+1,3684.75,Books,Education,DEBIT,2025-08-17 13:01:58.204743,Rs 3684.75 paid to Books via UPI
+1,468.38,Ola,Transport,DEBIT,2025-08-17 13:01:58.204743,Transaction successful: Ola Rs 468.38
+1,1163.33,Pharmacy,Health,DEBIT,2025-08-17 13:01:58.204743,Spent Rs 1163.33 at Pharmacy
+1,540.84,Amazon,Shopping,DEBIT,2025-08-18 13:01:58.204743,Transaction successful: Amazon Rs 540.84
+1,4290.41,Books,Education,DEBIT,2025-08-18 13:01:58.204743,Transaction successful: Books Rs 4290.41
+1,3318.3,Meesho,Shopping,DEBIT,2025-08-18 13:01:58.204743,Debited Rs 3318.30 from account to Meesho
+1,2500.54,Meesho,Shopping,DEBIT,2025-08-18 13:01:58.204743,Rs 2500.54 paid to Meesho via UPI
+1,385.42,Bus,Transport,DEBIT,2025-08-20 13:01:58.204743,Rs 385.42 paid to Bus via UPI
+1,1363.78,Hospital,Health,DEBIT,2025-08-20 13:01:58.204743,Transaction successful: Hospital Rs 1363.78
+1,2534.9,Books,Education,DEBIT,2025-08-20 13:01:58.204743,Transaction successful: Books Rs 2534.90
+1,638.68,Meesho,Shopping,DEBIT,2025-08-20 13:01:58.204743,Transaction successful: Meesho Rs 638.68
+1,308.4,Rapido,Transport,DEBIT,2025-08-21 13:01:58.204743,Debited Rs 308.40 from account to Rapido
+1,3145.78,College,Bills,DEBIT,2025-08-21 13:01:58.204743,Transaction successful: College Rs 3145.78
+1,4160.63,Meesho,Shopping,DEBIT,2025-08-22 13:01:58.204743,Rs 4160.63 paid to Meesho via UPI
+1,40.0,Ola,Transport,DEBIT,2025-08-22 13:01:58.204743,Debited Rs 40.00 from account to Ola
+1,830.04,Amazon Prime,Entertainment,DEBIT,2025-08-22 13:01:58.204743,Spent Rs 830.04 at Amazon Prime
+1,1377.69,Myntra,Shopping,DEBIT,2025-08-22 13:01:58.204743,Transaction successful: Myntra Rs 1377.69
+1,109.35,Gaming,Entertainment,DEBIT,2025-08-23 13:01:58.204743,Rs 109.35 paid to Gaming via UPI
+1,713.74,BookMyShow,Entertainment,DEBIT,2025-08-23 13:01:58.204743,Spent Rs 713.74 at BookMyShow
+1,42.77,Uber,Transport,DEBIT,2025-08-23 13:01:58.204743,Rs 42.77 paid to Uber via UPI
+1,4468.96,Coursera,Education,DEBIT,2025-08-23 13:01:58.204743,Rs 4468.96 paid to Coursera via UPI
+1,669.04,Hostel,Bills,DEBIT,2025-08-24 13:01:58.204743,Transaction successful: Hostel Rs 669.04
+1,2800.74,Books,Education,DEBIT,2025-08-24 13:01:58.204743,Transaction successful: Books Rs 2800.74
+1,100.02,Pharmacy,Health,DEBIT,2025-08-24 13:01:58.204743,Spent Rs 100.02 at Pharmacy
+1,297.61,Bus,Transport,DEBIT,2025-08-25 13:01:58.204743,Transaction successful: Bus Rs 297.61
+1,1621.84,College,Bills,DEBIT,2025-08-25 13:01:58.204743,Transaction successful: College Rs 1621.84
+1,588.82,Local Restaurant,Food,DEBIT,2025-08-25 13:01:58.204743,Debited Rs 588.82 from account to Local Restaurant
+1,2506.81,Udemy,Education,DEBIT,2025-08-26 13:01:58.204743,Transaction successful: Udemy Rs 2506.81
+1,3071.48,Amazon,Shopping,DEBIT,2025-08-26 13:01:58.204743,Transaction successful: Amazon Rs 3071.48
+1,590.09,Hospital,Health,DEBIT,2025-08-27 13:01:58.204743,Spent Rs 590.09 at Hospital
+1,561.66,Amazon,Shopping,DEBIT,2025-08-28 13:01:58.204743,Debited Rs 561.66 from account to Amazon
+1,4416.99,Phone,Bills,DEBIT,2025-08-28 13:01:58.204743,Rs 4416.99 paid to Phone via UPI
+1,677.72,Zomato,Food,DEBIT,2025-08-28 13:01:58.204743,Rs 677.72 paid to Zomato via UPI
+1,495.86,Local Restaurant,Food,DEBIT,2025-08-29 13:01:58.204743,Debited Rs 495.86 from account to Local Restaurant
+1,3698.97,Hostel,Bills,DEBIT,2025-08-29 13:01:58.204743,Spent Rs 3698.97 at Hostel
+1,293.51,Petrol Pump,Transport,DEBIT,2025-08-29 13:01:58.204743,Spent Rs 293.51 at Petrol Pump
+1,380.34,Meesho,Shopping,DEBIT,2025-08-29 13:01:58.204743,Debited Rs 380.34 from account to Meesho
+1,3411.14,Skincare,Shopping,DEBIT,2025-08-29 13:01:58.204743,Transaction successful: Skincare Rs 3411.14
+1,1076.98,Gym,Health,DEBIT,2025-08-30 13:01:58.204743,Debited Rs 1076.98 from account to Gym
+1,223.31,McDonald,Food,DEBIT,2025-08-30 13:01:58.204743,Debited Rs 223.31 from account to McDonald
+1,432.69,Gaming,Entertainment,DEBIT,2025-08-30 13:01:58.204743,Rs 432.69 paid to Gaming via UPI
+1,1679.6,Gym,Health,DEBIT,2025-08-31 13:01:58.204743,Debited Rs 1679.60 from account to Gym
+1,1856.92,Meesho,Shopping,DEBIT,2025-08-31 13:01:58.204743,Rs 1856.92 paid to Meesho via UPI
+1,907.38,BookMyShow,Entertainment,DEBIT,2025-08-31 13:01:58.204743,Rs 907.38 paid to BookMyShow via UPI
+1,1858.58,Pharmacy,Health,DEBIT,2025-09-01 13:01:58.204743,Rs 1858.58 paid to Pharmacy via UPI
+1,2476.81,Local Store,Shopping,DEBIT,2025-09-02 13:01:58.204743,Rs 2476.81 paid to Local Store via UPI
+1,2137.91,College,Bills,DEBIT,2025-09-02 13:01:58.204743,Transaction successful: College Rs 2137.91
+1,4214.37,Udemy,Education,DEBIT,2025-09-02 13:01:58.204743,Spent Rs 4214.37 at Udemy
+1,4902.3,Meesho,Shopping,DEBIT,2025-09-03 13:01:58.204743,Debited Rs 4902.30 from account to Meesho
+1,314.43,Dominos,Food,DEBIT,2025-09-03 13:01:58.204743,Transaction successful: Dominos Rs 314.43
+1,520.67,Swiggy,Food,DEBIT,2025-09-03 13:01:58.204743,Spent Rs 520.67 at Swiggy
+1,379.38,Uber,Transport,DEBIT,2025-09-04 13:01:58.204743,Transaction successful: Uber Rs 379.38
+1,1449.62,Amazon Prime,Entertainment,DEBIT,2025-09-04 13:01:58.204743,Rs 1449.62 paid to Amazon Prime via UPI
+1,369.88,Uber,Transport,DEBIT,2025-09-04 13:01:58.204743,Rs 369.88 paid to Uber via UPI
+1,3034.8,Coursera,Education,DEBIT,2025-09-04 13:01:58.204743,Debited Rs 3034.80 from account to Coursera
+1,1964.24,Hospital,Health,DEBIT,2025-09-04 13:01:58.204743,Spent Rs 1964.24 at Hospital
+1,596.78,Gaming,Entertainment,DEBIT,2025-09-05 13:01:58.204743,Debited Rs 596.78 from account to Gaming
+1,3069.07,Flipkart,Shopping,DEBIT,2025-09-06 13:01:58.204743,Transaction successful: Flipkart Rs 3069.07
+1,767.95,Swiggy,Food,DEBIT,2025-09-06 13:01:58.204743,Debited Rs 767.95 from account to Swiggy
+1,1504.88,Hospital,Health,DEBIT,2025-09-06 13:01:58.204743,Spent Rs 1504.88 at Hospital
+1,1473.86,Skincare,Shopping,DEBIT,2025-09-07 13:01:58.204743,Spent Rs 1473.86 at Skincare
+1,2521.02,Local Store,Shopping,DEBIT,2025-09-07 13:01:58.204743,Rs 2521.02 paid to Local Store via UPI
+1,1024.11,College,Bills,DEBIT,2025-09-07 13:01:58.204743,Transaction successful: College Rs 1024.11
+1,3690.77,Udemy,Education,DEBIT,2025-09-08 13:01:58.204743,Spent Rs 3690.77 at Udemy
+1,341.41,Gym,Health,DEBIT,2025-09-08 13:01:58.204743,Debited Rs 341.41 from account to Gym
+1,98.37,Dominos,Food,DEBIT,2025-09-08 13:01:58.204743,Rs 98.37 paid to Dominos via UPI
+1,2312.73,Local Store,Shopping,DEBIT,2025-09-08 13:01:58.204743,Transaction successful: Local Store Rs 2312.73
+1,394.96,Gym,Health,DEBIT,2025-09-08 13:01:58.204743,Debited Rs 394.96 from account to Gym
+1,1277.03,Hospital,Health,DEBIT,2025-09-09 13:01:58.204743,Transaction successful: Hospital Rs 1277.03
+1,3889.61,Books,Education,DEBIT,2025-09-10 13:01:58.204743,Rs 3889.61 paid to Books via UPI
+1,309.02,Rapido,Transport,DEBIT,2025-09-10 13:01:58.204743,Rs 309.02 paid to Rapido via UPI
+1,4531.17,Coursera,Education,DEBIT,2025-09-10 13:01:58.204743,Debited Rs 4531.17 from account to Coursera
+1,220.45,McDonald,Food,DEBIT,2025-09-11 13:01:58.204743,Transaction successful: McDonald Rs 220.45
+1,4028.75,Hostel,Bills,DEBIT,2025-09-12 13:01:58.204743,Transaction successful: Hostel Rs 4028.75
+1,240.37,Ola,Transport,DEBIT,2025-09-12 13:01:58.204743,Rs 240.37 paid to Ola via UPI
+1,3627.36,Meesho,Shopping,DEBIT,2025-09-12 13:01:58.204743,Debited Rs 3627.36 from account to Meesho
+1,356.59,Uber,Transport,DEBIT,2025-09-12 13:01:58.204743,Transaction successful: Uber Rs 356.59
+1,214.46,Swiggy,Food,DEBIT,2025-09-13 13:01:58.204743,Debited Rs 214.46 from account to Swiggy
+1,1868.14,Books,Education,DEBIT,2025-09-13 13:01:58.204743,Debited Rs 1868.14 from account to Books
+1,748.73,Gaming,Entertainment,DEBIT,2025-09-13 13:01:58.204743,Spent Rs 748.73 at Gaming
+1,430.63,Rapido,Transport,DEBIT,2025-09-14 13:01:58.204743,Spent Rs 430.63 at Rapido
+1,1853.24,Pharmacy,Health,DEBIT,2025-09-14 13:01:58.204743,Debited Rs 1853.24 from account to Pharmacy
+1,450.57,Ola,Transport,DEBIT,2025-09-14 13:01:58.204743,Transaction successful: Ola Rs 450.57
+1,1903.93,Udemy,Education,DEBIT,2025-09-15 13:01:58.204743,Spent Rs 1903.93 at Udemy
+1,792.27,Pharmacy,Health,DEBIT,2025-09-15 13:01:58.204743,Transaction successful: Pharmacy Rs 792.27
+1,1608.11,Pharmacy,Health,DEBIT,2025-09-15 13:01:58.204743,Rs 1608.11 paid to Pharmacy via UPI
+1,814.86,Flipkart,Shopping,DEBIT,2025-09-15 13:01:58.204743,Debited Rs 814.86 from account to Flipkart
+1,259.95,Local Restaurant,Food,DEBIT,2025-09-16 13:01:58.204743,Debited Rs 259.95 from account to Local Restaurant
+1,2907.03,Flipkart,Shopping,DEBIT,2025-09-17 13:01:58.204743,Transaction successful: Flipkart Rs 2907.03
+1,836.58,Pharmacy,Health,DEBIT,2025-09-17 13:01:58.204743,Transaction successful: Pharmacy Rs 836.58
+1,168.79,Rapido,Transport,DEBIT,2025-09-17 13:01:58.204743,Spent Rs 168.79 at Rapido
+1,159.39,Gaming,Entertainment,DEBIT,2025-09-17 13:01:58.204743,Spent Rs 159.39 at Gaming
+1,586.19,Swiggy,Food,DEBIT,2025-09-18 13:01:58.204743,Transaction successful: Swiggy Rs 586.19
+1,549.97,Phone,Bills,DEBIT,2025-09-18 13:01:58.204743,Rs 549.97 paid to Phone via UPI
+1,2500.08,Meesho,Shopping,DEBIT,2025-09-19 13:01:58.204743,Rs 2500.08 paid to Meesho via UPI
+1,1261.15,Gaming,Entertainment,DEBIT,2025-09-19 13:01:58.204743,Transaction successful: Gaming Rs 1261.15
+1,2006.05,Local Store,Shopping,DEBIT,2025-09-19 13:01:58.204743,Debited Rs 2006.05 from account to Local Store
+1,786.38,Udemy,Education,DEBIT,2025-09-20 13:01:58.204743,Debited Rs 786.38 from account to Udemy
+1,101.48,Hospital,Health,DEBIT,2025-09-21 13:01:58.204743,Debited Rs 101.48 from account to Hospital
+1,327.3,Ola,Transport,DEBIT,2025-09-21 13:01:58.204743,Spent Rs 327.30 at Ola
+1,1034.06,Skincare,Shopping,DEBIT,2025-09-21 13:01:58.204743,Spent Rs 1034.06 at Skincare
+1,3142.11,Flipkart,Shopping,DEBIT,2025-09-22 13:01:58.204743,Spent Rs 3142.11 at Flipkart
+1,77.01,Local Restaurant,Food,DEBIT,2025-09-22 13:01:58.204743,Rs 77.01 paid to Local Restaurant via UPI
+1,620.71,Netflix,Entertainment,DEBIT,2025-09-23 13:01:58.204743,Debited Rs 620.71 from account to Netflix
+1,4033.09,Hostel,Bills,DEBIT,2025-09-23 13:01:58.204743,Transaction successful: Hostel Rs 4033.09
+1,510.5,Pharmacy,Health,DEBIT,2025-09-23 13:01:58.204743,Spent Rs 510.50 at Pharmacy
+1,2260.47,Phone,Bills,DEBIT,2025-09-24 13:01:58.204743,Transaction successful: Phone Rs 2260.47
+1,982.98,Gaming,Entertainment,DEBIT,2025-09-24 13:01:58.204743,Rs 982.98 paid to Gaming via UPI
+1,4592.26,Coursera,Education,DEBIT,2025-09-24 13:01:58.204743,Debited Rs 4592.26 from account to Coursera
+1,682.57,BookMyShow,Entertainment,DEBIT,2025-09-25 13:01:58.204743,Rs 682.57 paid to BookMyShow via UPI
+1,416.57,Ola,Transport,DEBIT,2025-09-25 13:01:58.204743,Debited Rs 416.57 from account to Ola
+1,1196.63,Gym,Health,DEBIT,2025-09-25 13:01:58.204743,Spent Rs 1196.63 at Gym
+1,1046.55,BookMyShow,Entertainment,DEBIT,2025-09-25 13:01:58.204743,Rs 1046.55 paid to BookMyShow via UPI
+1,445.55,McDonald,Food,DEBIT,2025-09-25 13:01:58.204743,Spent Rs 445.55 at McDonald
+1,944.41,BookMyShow,Entertainment,DEBIT,2025-09-26 13:01:58.204743,Debited Rs 944.41 from account to BookMyShow
+1,1652.31,Books,Education,DEBIT,2025-09-27 13:01:58.204743,Debited Rs 1652.31 from account to Books
+1,995.23,Coursera,Education,DEBIT,2025-09-27 13:01:58.204743,Rs 995.23 paid to Coursera via UPI
+1,2133.95,Books,Education,DEBIT,2025-09-27 13:01:58.204743,Rs 2133.95 paid to Books via UPI
+1,1046.28,Pharmacy,Health,DEBIT,2025-09-27 13:01:58.204743,Rs 1046.28 paid to Pharmacy via UPI
+1,1230.05,Books,Education,DEBIT,2025-09-27 13:01:58.204743,Debited Rs 1230.05 from account to Books
+1,1122.83,Gym,Health,DEBIT,2025-09-28 13:01:58.204743,Debited Rs 1122.83 from account to Gym
+1,1993.06,Flipkart,Shopping,DEBIT,2025-09-28 13:01:58.204743,Debited Rs 1993.06 from account to Flipkart
+1,518.35,Pharmacy,Health,DEBIT,2025-09-28 13:01:58.204743,Debited Rs 518.35 from account to Pharmacy
+1,2199.09,Hostel,Bills,DEBIT,2025-09-28 13:01:58.204743,Debited Rs 2199.09 from account to Hostel
+1,357.89,Rapido,Transport,DEBIT,2025-09-29 13:01:58.204743,Spent Rs 357.89 at Rapido
+1,752.45,Local Restaurant,Food,DEBIT,2025-09-29 13:01:58.204743,Debited Rs 752.45 from account to Local Restaurant
+1,286.33,Petrol Pump,Transport,DEBIT,2025-09-29 13:01:58.204743,Debited Rs 286.33 from account to Petrol Pump
+1,1572.06,Udemy,Education,DEBIT,2025-09-30 13:01:58.204743,Debited Rs 1572.06 from account to Udemy
+1,1095.54,Local Store,Shopping,DEBIT,2025-09-30 13:01:58.204743,Rs 1095.54 paid to Local Store via UPI
+1,1212.74,Amazon Prime,Entertainment,DEBIT,2025-09-30 13:01:58.204743,Debited Rs 1212.74 from account to Amazon Prime
+1,1287.45,Pharmacy,Health,DEBIT,2025-09-30 13:01:58.204743,Spent Rs 1287.45 at Pharmacy
+1,1991.41,Pharmacy,Health,DEBIT,2025-09-30 13:01:58.204743,Spent Rs 1991.41 at Pharmacy
+1,1364.33,Gaming,Entertainment,DEBIT,2025-10-01 13:01:58.204743,Transaction successful: Gaming Rs 1364.33
+1,1335.38,Hospital,Health,DEBIT,2025-10-01 13:01:58.204743,Transaction successful: Hospital Rs 1335.38
+1,2837.74,Meesho,Shopping,DEBIT,2025-10-02 13:01:58.204743,Spent Rs 2837.74 at Meesho
+1,4457.28,Phone,Bills,DEBIT,2025-10-02 13:01:58.204743,Spent Rs 4457.28 at Phone
+1,570.26,Local Restaurant,Food,DEBIT,2025-10-02 13:01:58.204743,Rs 570.26 paid to Local Restaurant via UPI
+1,3294.04,Flipkart,Shopping,DEBIT,2025-10-02 13:01:58.204743,Spent Rs 3294.04 at Flipkart
+1,2364.72,Hostel,Bills,DEBIT,2025-10-02 13:01:58.204743,Transaction successful: Hostel Rs 2364.72
+1,1376.23,Pharmacy,Health,DEBIT,2025-10-02 13:01:58.204743,Rs 1376.23 paid to Pharmacy via UPI
+1,436.31,Rapido,Transport,DEBIT,2025-10-03 13:01:58.204743,Rs 436.31 paid to Rapido via UPI
+1,1095.88,BookMyShow,Entertainment,DEBIT,2025-10-03 13:01:58.204743,Transaction successful: BookMyShow Rs 1095.88
+1,1216.57,Gaming,Entertainment,DEBIT,2025-10-03 13:01:58.204743,Rs 1216.57 paid to Gaming via UPI
+1,613.38,Phone,Bills,DEBIT,2025-10-03 13:01:58.204743,Rs 613.38 paid to Phone via UPI
+1,105.84,Bus,Transport,DEBIT,2025-10-03 13:01:58.204743,Rs 105.84 paid to Bus via UPI
+1,680.63,BookMyShow,Entertainment,DEBIT,2025-10-03 13:01:58.204743,Rs 680.63 paid to BookMyShow via UPI
+1,246.58,Pharmacy,Health,DEBIT,2025-10-04 13:01:58.204743,Spent Rs 246.58 at Pharmacy
+1,1900.61,Pharmacy,Health,DEBIT,2025-10-04 13:01:58.204743,Debited Rs 1900.61 from account to Pharmacy
+1,1224.24,BookMyShow,Entertainment,DEBIT,2025-10-05 13:01:58.204743,Spent Rs 1224.24 at BookMyShow
+1,228.64,Dominos,Food,DEBIT,2025-10-05 13:01:58.204743,Spent Rs 228.64 at Dominos
+1,1015.79,BookMyShow,Entertainment,DEBIT,2025-10-06 13:01:58.204743,Rs 1015.79 paid to BookMyShow via UPI
+1,3509.79,Books,Education,DEBIT,2025-10-07 13:01:58.204743,Transaction successful: Books Rs 3509.79
+1,3472.25,Phone,Bills,DEBIT,2025-10-07 13:01:58.204743,Transaction successful: Phone Rs 3472.25
+1,308.73,Bus,Transport,DEBIT,2025-10-07 13:01:58.204743,Rs 308.73 paid to Bus via UPI
+1,930.72,Udemy,Education,DEBIT,2025-10-07 13:01:58.204743,Transaction successful: Udemy Rs 930.72
+1,3422.37,College,Bills,DEBIT,2025-10-08 13:01:58.204743,Rs 3422.37 paid to College via UPI
+1,416.63,McDonald,Food,DEBIT,2025-10-08 13:01:58.204743,Spent Rs 416.63 at McDonald
+1,4402.47,Udemy,Education,DEBIT,2025-10-08 13:01:58.204743,Transaction successful: Udemy Rs 4402.47
+1,1545.73,Books,Education,DEBIT,2025-10-09 13:01:58.204743,Transaction successful: Books Rs 1545.73
+1,1208.19,Pharmacy,Health,DEBIT,2025-10-09 13:01:58.204743,Debited Rs 1208.19 from account to Pharmacy
+1,137.9,Local Restaurant,Food,DEBIT,2025-10-09 13:01:58.204743,Spent Rs 137.90 at Local Restaurant
+1,373.49,Hospital,Health,DEBIT,2025-10-09 13:01:58.204743,Transaction successful: Hospital Rs 373.49
+1,519.18,Myntra,Shopping,DEBIT,2025-10-10 13:01:58.204743,Spent Rs 519.18 at Myntra
+1,491.23,Local Restaurant,Food,DEBIT,2025-10-10 13:01:58.204743,Spent Rs 491.23 at Local Restaurant
+1,3052.9,Udemy,Education,DEBIT,2025-10-12 13:01:58.204743,Spent Rs 3052.90 at Udemy
+1,859.81,Gaming,Entertainment,DEBIT,2025-10-13 13:01:58.204743,Transaction successful: Gaming Rs 859.81
+1,1406.36,BookMyShow,Entertainment,DEBIT,2025-10-15 13:01:58.204743,Debited Rs 1406.36 from account to BookMyShow
+1,764.52,Phone,Bills,DEBIT,2025-10-15 13:01:58.204743,Spent Rs 764.52 at Phone
+1,4174.96,Amazon,Shopping,DEBIT,2025-10-16 13:01:58.204743,Spent Rs 4174.96 at Amazon
+1,1422.73,Phone,Bills,DEBIT,2025-10-16 13:01:58.204743,Rs 1422.73 paid to Phone via UPI
+1,4668.55,Myntra,Shopping,DEBIT,2025-10-16 13:01:58.204743,Spent Rs 4668.55 at Myntra
+1,3781.57,Hostel,Bills,DEBIT,2025-10-16 13:01:58.204743,Spent Rs 3781.57 at Hostel
+1,2480.32,College,Bills,DEBIT,2025-10-16 13:01:58.204743,Spent Rs 2480.32 at College
+1,977.81,Gym,Health,DEBIT,2025-10-16 13:01:58.204743,Transaction successful: Gym Rs 977.81
+1,371.09,Rapido,Transport,DEBIT,2025-10-17 13:01:58.204743,Debited Rs 371.09 from account to Rapido
+1,567.92,Zomato,Food,DEBIT,2025-10-17 13:01:58.204743,Spent Rs 567.92 at Zomato
+1,102.06,Gaming,Entertainment,DEBIT,2025-10-17 13:01:58.204743,Spent Rs 102.06 at Gaming
+1,1348.4,Gaming,Entertainment,DEBIT,2025-10-18 13:01:58.204743,Debited Rs 1348.40 from account to Gaming
+1,208.69,Uber,Transport,DEBIT,2025-10-18 13:01:58.204743,Debited Rs 208.69 from account to Uber
+1,397.01,McDonald,Food,DEBIT,2025-10-18 13:01:58.204743,Spent Rs 397.01 at McDonald
+1,950.67,College,Bills,DEBIT,2025-10-18 13:01:58.204743,Transaction successful: College Rs 950.67
+1,487.19,Local Restaurant,Food,DEBIT,2025-10-19 13:01:58.204743,Debited Rs 487.19 from account to Local Restaurant
+1,392.88,Pharmacy,Health,DEBIT,2025-10-19 13:01:58.204743,Debited Rs 392.88 from account to Pharmacy
+1,867.9,Gaming,Entertainment,DEBIT,2025-10-19 13:01:58.204743,Spent Rs 867.90 at Gaming
+1,3618.17,Hostel,Bills,DEBIT,2025-10-19 13:01:58.204743,Transaction successful: Hostel Rs 3618.17
+1,203.24,McDonald,Food,DEBIT,2025-10-19 13:01:58.204743,Transaction successful: McDonald Rs 203.24
+1,228.21,BookMyShow,Entertainment,DEBIT,2025-10-19 13:01:58.204743,Debited Rs 228.21 from account to BookMyShow
+1,1432.54,Netflix,Entertainment,DEBIT,2025-10-20 13:01:58.204743,Debited Rs 1432.54 from account to Netflix
+1,2317.31,Phone,Bills,DEBIT,2025-10-20 13:01:58.204743,Rs 2317.31 paid to Phone via UPI
+1,59.3,Swiggy,Food,DEBIT,2025-10-22 13:01:58.204743,Debited Rs 59.30 from account to Swiggy
+1,55.88,Zomato,Food,DEBIT,2025-10-22 13:01:58.204743,Debited Rs 55.88 from account to Zomato
+1,511.41,Local Restaurant,Food,DEBIT,2025-10-22 13:01:58.204743,Debited Rs 511.41 from account to Local Restaurant
+1,931.2,Gym,Health,DEBIT,2025-10-22 13:01:58.204743,Debited Rs 931.20 from account to Gym
+1,327.56,Petrol Pump,Transport,DEBIT,2025-10-23 13:01:58.204743,Transaction successful: Petrol Pump Rs 327.56
+1,2206.88,Udemy,Education,DEBIT,2025-10-23 13:01:58.204743,Debited Rs 2206.88 from account to Udemy
+1,938.77,BookMyShow,Entertainment,DEBIT,2025-10-24 13:01:58.204743,Debited Rs 938.77 from account to BookMyShow
+1,3474.53,Meesho,Shopping,DEBIT,2025-10-24 13:01:58.204743,Rs 3474.53 paid to Meesho via UPI
+1,954.57,Amazon Prime,Entertainment,DEBIT,2025-10-24 13:01:58.204743,Rs 954.57 paid to Amazon Prime via UPI
+1,4453.37,Phone,Bills,DEBIT,2025-10-25 13:01:58.204743,Rs 4453.37 paid to Phone via UPI
+1,1415.99,Gym,Health,DEBIT,2025-10-25 13:01:58.204743,Transaction successful: Gym Rs 1415.99
+1,1890.54,Gym,Health,DEBIT,2025-10-25 13:01:58.204743,Rs 1890.54 paid to Gym via UPI
+1,482.77,Amazon Prime,Entertainment,DEBIT,2025-10-25 13:01:58.204743,Rs 482.77 paid to Amazon Prime via UPI
+1,4269.66,College,Bills,DEBIT,2025-10-25 13:01:58.204743,Transaction successful: College Rs 4269.66
+1,2220.96,College,Bills,DEBIT,2025-10-26 13:01:58.204743,Debited Rs 2220.96 from account to College
+1,1399.79,Local Store,Shopping,DEBIT,2025-10-26 13:01:58.204743,Rs 1399.79 paid to Local Store via UPI
+1,142.4,Uber,Transport,DEBIT,2025-10-26 13:01:58.204743,Spent Rs 142.40 at Uber
+1,527.85,Amazon Prime,Entertainment,DEBIT,2025-10-26 13:01:58.204743,Transaction successful: Amazon Prime Rs 527.85
+1,111.2,Local Restaurant,Food,DEBIT,2025-10-27 13:01:58.204743,Spent Rs 111.20 at Local Restaurant
+1,4269.61,College,Bills,DEBIT,2025-10-27 13:01:58.204743,Debited Rs 4269.61 from account to College
+1,189.2,Hospital,Health,DEBIT,2025-10-27 13:01:58.204743,Rs 189.20 paid to Hospital via UPI
+1,1789.44,Coursera,Education,DEBIT,2025-10-28 13:01:58.204743,Rs 1789.44 paid to Coursera via UPI
+1,4115.75,Phone,Bills,DEBIT,2025-10-28 13:01:58.204743,Spent Rs 4115.75 at Phone
+1,509.19,Zomato,Food,DEBIT,2025-10-29 13:01:58.204743,Rs 509.19 paid to Zomato via UPI
+1,204.92,Uber,Transport,DEBIT,2025-10-29 13:01:58.204743,Rs 204.92 paid to Uber via UPI
+1,572.66,Netflix,Entertainment,DEBIT,2025-10-29 13:01:58.204743,Rs 572.66 paid to Netflix via UPI
+1,261.39,Gaming,Entertainment,DEBIT,2025-10-29 13:01:58.204743,Transaction successful: Gaming Rs 261.39
+1,761.66,Zomato,Food,DEBIT,2025-10-30 13:01:58.204743,Rs 761.66 paid to Zomato via UPI
+1,1137.17,Amazon,Shopping,DEBIT,2025-10-31 13:01:58.204743,Spent Rs 1137.17 at Amazon
+1,179.75,Uber,Transport,DEBIT,2025-10-31 13:01:58.204743,Debited Rs 179.75 from account to Uber
+1,523.99,Dominos,Food,DEBIT,2025-10-31 13:01:58.204743,Spent Rs 523.99 at Dominos
+1,4767.44,Amazon,Shopping,DEBIT,2025-10-31 13:01:58.204743,Transaction successful: Amazon Rs 4767.44
+1,1248.53,Skincare,Shopping,DEBIT,2025-10-31 13:01:58.204743,Spent Rs 1248.53 at Skincare
+1,1868.89,Books,Education,DEBIT,2025-10-31 13:01:58.204743,Spent Rs 1868.89 at Books
+1,2078.2,Coursera,Education,DEBIT,2025-11-01 13:01:58.204743,Debited Rs 2078.20 from account to Coursera
+1,406.81,Petrol Pump,Transport,DEBIT,2025-11-01 13:01:58.204743,Transaction successful: Petrol Pump Rs 406.81
+1,694.68,BookMyShow,Entertainment,DEBIT,2025-11-01 13:01:58.204743,Rs 694.68 paid to BookMyShow via UPI
+1,1339.55,Coursera,Education,DEBIT,2025-11-01 13:01:58.204743,Rs 1339.55 paid to Coursera via UPI
+1,274.9,Metro,Transport,DEBIT,2025-11-01 13:01:58.204743,Transaction successful: Metro Rs 274.90
+1,1898.59,Phone,Bills,DEBIT,2025-11-02 13:01:58.204743,Rs 1898.59 paid to Phone via UPI
+1,2105.99,Udemy,Education,DEBIT,2025-11-02 13:01:58.204743,Rs 2105.99 paid to Udemy via UPI
+1,4368.48,College,Bills,DEBIT,2025-11-03 13:01:58.204743,Rs 4368.48 paid to College via UPI
+1,755.34,Local Restaurant,Food,DEBIT,2025-11-03 13:01:58.204743,Debited Rs 755.34 from account to Local Restaurant
+1,1552.31,Hospital,Health,DEBIT,2025-11-03 13:01:58.204743,Rs 1552.31 paid to Hospital via UPI
+1,1117.75,Pharmacy,Health,DEBIT,2025-11-04 13:01:58.204743,Debited Rs 1117.75 from account to Pharmacy
+1,3285.53,Local Store,Shopping,DEBIT,2025-11-04 13:01:58.204743,Debited Rs 3285.53 from account to Local Store
+1,302.7,Petrol Pump,Transport,DEBIT,2025-11-04 13:01:58.204743,Transaction successful: Petrol Pump Rs 302.70
+1,2398.51,Local Store,Shopping,DEBIT,2025-11-05 13:01:58.204743,Rs 2398.51 paid to Local Store via UPI
+1,684.2,Hostel,Bills,DEBIT,2025-11-06 13:01:58.204743,Transaction successful: Hostel Rs 684.20
+1,1822.38,Pharmacy,Health,DEBIT,2025-11-06 13:01:58.204743,Spent Rs 1822.38 at Pharmacy
+1,411.16,Local Restaurant,Food,DEBIT,2025-11-06 13:01:58.204743,Spent Rs 411.16 at Local Restaurant
+1,2466.96,College,Bills,DEBIT,2025-11-06 13:01:58.204743,Transaction successful: College Rs 2466.96
+1,158.04,Pharmacy,Health,DEBIT,2025-11-06 13:01:58.204743,Rs 158.04 paid to Pharmacy via UPI
+1,432.29,Swiggy,Food,DEBIT,2025-11-06 13:01:58.204743,Spent Rs 432.29 at Swiggy
+1,143.77,Bus,Transport,DEBIT,2025-11-07 13:01:58.204743,Transaction successful: Bus Rs 143.77
+1,4662.37,College,Bills,DEBIT,2025-11-07 13:01:58.204743,Transaction successful: College Rs 4662.37
+1,874.65,Amazon,Shopping,DEBIT,2025-11-08 13:01:58.204743,Rs 874.65 paid to Amazon via UPI
+1,557.84,Swiggy,Food,DEBIT,2025-11-08 13:01:58.204743,Spent Rs 557.84 at Swiggy
+1,1336.85,Amazon Prime,Entertainment,DEBIT,2025-11-08 13:01:58.204743,Debited Rs 1336.85 from account to Amazon Prime
+1,126.94,Uber,Transport,DEBIT,2025-11-08 13:01:58.204743,Rs 126.94 paid to Uber via UPI
+1,4776.41,Udemy,Education,DEBIT,2025-11-08 13:01:58.204743,Debited Rs 4776.41 from account to Udemy
+1,3816.93,Coursera,Education,DEBIT,2025-11-09 13:01:58.204743,Spent Rs 3816.93 at Coursera
+1,290.59,Swiggy,Food,DEBIT,2025-11-09 13:01:58.204743,Spent Rs 290.59 at Swiggy
+1,170.96,Pharmacy,Health,DEBIT,2025-11-09 13:01:58.204743,Transaction successful: Pharmacy Rs 170.96
+1,1579.16,Hostel,Bills,DEBIT,2025-11-10 13:01:58.204743,Rs 1579.16 paid to Hostel via UPI
+1,1330.08,Udemy,Education,DEBIT,2025-11-10 13:01:58.204743,Debited Rs 1330.08 from account to Udemy
+1,419.38,Ola,Transport,DEBIT,2025-11-10 13:01:58.204743,Rs 419.38 paid to Ola via UPI
+1,835.48,Udemy,Education,DEBIT,2025-11-10 13:01:58.204743,Debited Rs 835.48 from account to Udemy
+1,530.79,Hospital,Health,DEBIT,2025-11-11 13:01:58.204743,Rs 530.79 paid to Hospital via UPI
+1,4628.0,Meesho,Shopping,DEBIT,2025-11-11 13:01:58.204743,Transaction successful: Meesho Rs 4628.00
+1,2644.18,Udemy,Education,DEBIT,2025-11-12 13:01:58.204743,Spent Rs 2644.18 at Udemy
+1,4618.64,Udemy,Education,DEBIT,2025-11-13 13:01:58.204743,Spent Rs 4618.64 at Udemy
+1,265.72,Dominos,Food,DEBIT,2025-11-14 13:01:58.204743,Debited Rs 265.72 from account to Dominos
+1,570.84,Local Restaurant,Food,DEBIT,2025-11-15 13:01:58.204743,Rs 570.84 paid to Local Restaurant via UPI
+1,3219.28,Phone,Bills,DEBIT,2025-11-15 13:01:58.204743,Rs 3219.28 paid to Phone via UPI
+1,4909.49,Myntra,Shopping,DEBIT,2025-11-15 13:01:58.204743,Transaction successful: Myntra Rs 4909.49
+1,692.87,Hostel,Bills,DEBIT,2025-11-16 13:01:58.204743,Transaction successful: Hostel Rs 692.87
+1,1870.83,Gym,Health,DEBIT,2025-11-16 13:01:58.204743,Transaction successful: Gym Rs 1870.83
+1,1919.49,Hospital,Health,DEBIT,2025-11-16 13:01:58.204743,Debited Rs 1919.49 from account to Hospital
+1,241.06,Gym,Health,DEBIT,2025-11-17 13:01:58.204743,Rs 241.06 paid to Gym via UPI
+1,1467.52,Amazon Prime,Entertainment,DEBIT,2025-11-17 13:01:58.204743,Transaction successful: Amazon Prime Rs 1467.52
+1,1188.04,Skincare,Shopping,DEBIT,2025-11-17 13:01:58.204743,Rs 1188.04 paid to Skincare via UPI
+1,1300.59,Amazon Prime,Entertainment,DEBIT,2025-11-18 13:01:58.204743,Debited Rs 1300.59 from account to Amazon Prime
+1,271.28,Ola,Transport,DEBIT,2025-11-18 13:01:58.204743,Spent Rs 271.28 at Ola
+1,1885.68,Coursera,Education,DEBIT,2025-11-19 13:01:58.204743,Rs 1885.68 paid to Coursera via UPI
+1,1397.82,Skincare,Shopping,DEBIT,2025-11-19 13:01:58.204743,Spent Rs 1397.82 at Skincare
+1,1827.99,Phone,Bills,DEBIT,2025-11-19 13:01:58.204743,Rs 1827.99 paid to Phone via UPI
+1,1950.59,College,Bills,DEBIT,2025-11-20 13:01:58.204743,Spent Rs 1950.59 at College
+1,3384.98,Flipkart,Shopping,DEBIT,2025-11-20 13:01:58.204743,Spent Rs 3384.98 at Flipkart
+1,377.65,Uber,Transport,DEBIT,2025-11-21 13:01:58.204743,Rs 377.65 paid to Uber via UPI
+1,488.66,Metro,Transport,DEBIT,2025-11-21 13:01:58.204743,Debited Rs 488.66 from account to Metro
+1,2230.04,Phone,Bills,DEBIT,2025-11-22 13:01:58.204743,Debited Rs 2230.04 from account to Phone
+1,505.48,Swiggy,Food,DEBIT,2025-11-23 13:01:58.204743,Spent Rs 505.48 at Swiggy
+1,682.51,Books,Education,DEBIT,2025-11-23 13:01:58.204743,Rs 682.51 paid to Books via UPI
+1,261.29,Uber,Transport,DEBIT,2025-11-23 13:01:58.204743,Spent Rs 261.29 at Uber
+1,950.19,Gym,Health,DEBIT,2025-11-23 13:01:58.204743,Spent Rs 950.19 at Gym
+1,448.33,Rapido,Transport,DEBIT,2025-11-24 13:01:58.204743,Transaction successful: Rapido Rs 448.33
+1,346.51,Petrol Pump,Transport,DEBIT,2025-11-24 13:01:58.204743,Debited Rs 346.51 from account to Petrol Pump
+1,795.75,Netflix,Entertainment,DEBIT,2025-11-25 13:01:58.204743,Spent Rs 795.75 at Netflix
+1,2137.83,College,Bills,DEBIT,2025-11-25 13:01:58.204743,Transaction successful: College Rs 2137.83
+1,467.98,Swiggy,Food,DEBIT,2025-11-25 13:01:58.204743,Spent Rs 467.98 at Swiggy
+1,669.84,Dominos,Food,DEBIT,2025-11-25 13:01:58.204743,Debited Rs 669.84 from account to Dominos
+1,1268.51,Hospital,Health,DEBIT,2025-11-25 13:01:58.204743,Transaction successful: Hospital Rs 1268.51
+1,891.12,Gaming,Entertainment,DEBIT,2025-11-25 13:01:58.204743,Debited Rs 891.12 from account to Gaming
+1,388.09,Metro,Transport,DEBIT,2025-11-26 13:01:58.204743,Transaction successful: Metro Rs 388.09
+1,2274.64,Books,Education,DEBIT,2025-11-26 13:01:58.204743,Rs 2274.64 paid to Books via UPI
+1,525.5,Zomato,Food,DEBIT,2025-11-27 13:01:58.204743,Debited Rs 525.50 from account to Zomato
+1,178.98,Netflix,Entertainment,DEBIT,2025-11-27 13:01:58.204743,Spent Rs 178.98 at Netflix
+1,401.72,Amazon,Shopping,DEBIT,2025-11-27 13:01:58.204743,Rs 401.72 paid to Amazon via UPI
+1,364.19,Dominos,Food,DEBIT,2025-11-27 13:01:58.204743,Debited Rs 364.19 from account to Dominos
+1,3153.39,Phone,Bills,DEBIT,2025-11-27 13:01:58.204743,Debited Rs 3153.39 from account to Phone
+1,1324.66,Hostel,Bills,DEBIT,2025-11-28 13:01:58.204743,Rs 1324.66 paid to Hostel via UPI
+1,2475.37,Books,Education,DEBIT,2025-11-29 13:01:58.204743,Debited Rs 2475.37 from account to Books
+1,3040.84,Hostel,Bills,DEBIT,2025-11-29 13:01:58.204743,Transaction successful: Hostel Rs 3040.84
+1,572.12,Zomato,Food,DEBIT,2025-11-29 13:01:58.204743,Transaction successful: Zomato Rs 572.12
+1,4128.07,Hostel,Bills,DEBIT,2025-11-30 13:01:58.204743,Transaction successful: Hostel Rs 4128.07
+1,524.59,College,Bills,DEBIT,2025-11-30 13:01:58.204743,Transaction successful: College Rs 524.59
+1,984.83,Hospital,Health,DEBIT,2025-11-30 13:01:58.204743,Debited Rs 984.83 from account to Hospital
+1,1230.42,Gaming,Entertainment,DEBIT,2025-12-01 13:01:58.204743,Debited Rs 1230.42 from account to Gaming
+1,627.02,Pharmacy,Health,DEBIT,2025-12-01 13:01:58.204743,Spent Rs 627.02 at Pharmacy
+1,3255.55,Hostel,Bills,DEBIT,2025-12-02 13:01:58.204743,Transaction successful: Hostel Rs 3255.55
+1,1360.65,Pharmacy,Health,DEBIT,2025-12-02 13:01:58.204743,Rs 1360.65 paid to Pharmacy via UPI
+1,2460.53,Books,Education,DEBIT,2025-12-02 13:01:58.204743,Transaction successful: Books Rs 2460.53
+1,700.18,Netflix,Entertainment,DEBIT,2025-12-02 13:01:58.204743,Transaction successful: Netflix Rs 700.18
+1,4064.78,College,Bills,DEBIT,2025-12-03 13:01:58.204743,Spent Rs 4064.78 at College
+1,469.32,Pharmacy,Health,DEBIT,2025-12-03 13:01:58.204743,Transaction successful: Pharmacy Rs 469.32
+1,838.13,BookMyShow,Entertainment,DEBIT,2025-12-04 13:01:58.204743,Spent Rs 838.13 at BookMyShow
+1,2550.67,College,Bills,DEBIT,2025-12-05 13:01:58.204743,Spent Rs 2550.67 at College
+1,730.96,Netflix,Entertainment,DEBIT,2025-12-05 13:01:58.204743,Spent Rs 730.96 at Netflix
+1,4530.08,College,Bills,DEBIT,2025-12-05 13:01:58.204743,Spent Rs 4530.08 at College
+1,682.94,McDonald,Food,DEBIT,2025-12-06 13:01:58.204743,Rs 682.94 paid to McDonald via UPI
+1,1021.83,Gaming,Entertainment,DEBIT,2025-12-06 13:01:58.204743,Transaction successful: Gaming Rs 1021.83
+1,1371.06,BookMyShow,Entertainment,DEBIT,2025-12-07 13:01:58.204743,Debited Rs 1371.06 from account to BookMyShow
+1,72.05,Dominos,Food,DEBIT,2025-12-07 13:01:58.204743,Spent Rs 72.05 at Dominos
+1,138.66,Amazon Prime,Entertainment,DEBIT,2025-12-07 13:01:58.204743,Rs 138.66 paid to Amazon Prime via UPI
+1,1506.3,Myntra,Shopping,DEBIT,2025-12-07 13:01:58.204743,Spent Rs 1506.30 at Myntra
+1,1147.24,Hostel,Bills,DEBIT,2025-12-07 13:01:58.204743,Transaction successful: Hostel Rs 1147.24
+1,404.73,Local Restaurant,Food,DEBIT,2025-12-08 13:01:58.204743,Spent Rs 404.73 at Local Restaurant
+1,3980.25,College,Bills,DEBIT,2025-12-08 13:01:58.204743,Rs 3980.25 paid to College via UPI
+1,695.8,Zomato,Food,DEBIT,2025-12-08 13:01:58.204743,Spent Rs 695.80 at Zomato
+1,1555.52,Pharmacy,Health,DEBIT,2025-12-08 13:01:58.204743,Spent Rs 1555.52 at Pharmacy
+1,494.72,Dominos,Food,DEBIT,2025-12-09 13:01:58.204743,Spent Rs 494.72 at Dominos
+1,823.72,Amazon,Shopping,DEBIT,2025-12-10 13:01:58.204743,Rs 823.72 paid to Amazon via UPI
+1,2856.28,Phone,Bills,DEBIT,2025-12-10 13:01:58.204743,Debited Rs 2856.28 from account to Phone
+1,218.15,BookMyShow,Entertainment,DEBIT,2025-12-10 13:01:58.204743,Debited Rs 218.15 from account to BookMyShow
+1,118.77,Zomato,Food,DEBIT,2025-12-12 13:01:58.204743,Spent Rs 118.77 at Zomato
+1,4624.02,Hostel,Bills,DEBIT,2025-12-13 13:01:58.204743,Rs 4624.02 paid to Hostel via UPI
+1,567.19,Gaming,Entertainment,DEBIT,2025-12-13 13:01:58.204743,Spent Rs 567.19 at Gaming
+1,365.57,Pharmacy,Health,DEBIT,2025-12-14 13:01:58.204743,Debited Rs 365.57 from account to Pharmacy
+1,3914.62,Skincare,Shopping,DEBIT,2025-12-14 13:01:58.204743,Transaction successful: Skincare Rs 3914.62
+1,127.02,Petrol Pump,Transport,DEBIT,2025-12-15 13:01:58.204743,Rs 127.02 paid to Petrol Pump via UPI
+1,1824.02,Hospital,Health,DEBIT,2025-12-15 13:01:58.204743,Debited Rs 1824.02 from account to Hospital
+1,3855.57,College,Bills,DEBIT,2025-12-15 13:01:58.204743,Spent Rs 3855.57 at College
+1,82.56,Dominos,Food,DEBIT,2025-12-15 13:01:58.204743,Transaction successful: Dominos Rs 82.56
+1,3210.06,College,Bills,DEBIT,2025-12-16 13:01:58.204743,Transaction successful: College Rs 3210.06
+1,415.94,Hospital,Health,DEBIT,2025-12-16 13:01:58.204743,Debited Rs 415.94 from account to Hospital
+1,1091.71,Gaming,Entertainment,DEBIT,2025-12-16 13:01:58.204743,Debited Rs 1091.71 from account to Gaming
+1,1221.54,Hospital,Health,DEBIT,2025-12-17 13:01:58.204743,Rs 1221.54 paid to Hospital via UPI
+1,4942.71,Local Store,Shopping,DEBIT,2025-12-17 13:01:58.204743,Spent Rs 4942.71 at Local Store
+1,1987.52,Phone,Bills,DEBIT,2025-12-17 13:01:58.204743,Rs 1987.52 paid to Phone via UPI
+1,60.05,Dominos,Food,DEBIT,2025-12-17 13:01:58.204743,Rs 60.05 paid to Dominos via UPI
+1,172.0,Gaming,Entertainment,DEBIT,2025-12-18 13:01:58.204743,Transaction successful: Gaming Rs 172.00
+1,4742.55,College,Bills,DEBIT,2025-12-18 13:01:58.204743,Debited Rs 4742.55 from account to College
